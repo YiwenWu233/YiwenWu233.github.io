@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! I am currently a Ph.D. Candidate of National University of Defense Technology. I joined [Trustie & OSSEAN](https://www.trustie.net) Group at August 2013, advised by Prof. Huaimin Wang. Before that I graduated with a B.E. in Computer Science and Technology from National University of Defense Technology in 2013. My main research interest is empirical software engineering, spanning from mining software repositories and analysing social coding networks. From October 2016 to October 2017, I was visiting and studying in [DECAL Lab](https://decallab.cs.ucdavis.edu/), UC Davis, advised by Prof. [Vladimir Filkov](http://web.cs.ucdavis.edu/~filkov/).
 
 A data-driven personal website
 ======
