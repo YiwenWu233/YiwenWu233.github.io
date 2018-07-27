@@ -172,9 +172,6 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
   photos:
     output: true
     permalink: /:collection/:path/
