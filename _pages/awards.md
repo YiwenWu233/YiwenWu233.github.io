@@ -33,7 +33,7 @@ author_profile: true
 
 * 2012 Awarded "Yin He" Scholarship in NUDT
 
-* 2011 Honored as undergraduate Excellent student of NUDT
+* 2011 Honored as Excellent undergraduate student of NUDT
 
 * 2009-2013 Honored as Excellent undergraduate student of College of Computer (NUDT) (four times)
 
