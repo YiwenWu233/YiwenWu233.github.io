@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+##2013##
+> <strong>Yang Zhang</strong>, Ma Zhengran, Zhen Qianbing. "Research on Contactless Palm print Image Acquisition and Image Enhancement Technology." <i>Journal of Computer Technology and Development</i>, China. 2013. In Chinese.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+> Yuan Yuan, <strong>Yang Zhang</strong>, Zheng Mingling, Xing Jianying, Sun Yanqiang. "Global View Design and Implementation for the Front-ends in Super Computer Monitoring Systems." <i>The 17th National Conference on Computer Engineering and Technology and the 3nd Microprocessor Forum</i>, China. In Chinese.
