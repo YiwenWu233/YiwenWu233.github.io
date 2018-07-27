@@ -169,9 +169,6 @@ kramdown:
 
 # Collections
 collections:
-  education:
-    output: true
-    permalink: /:collection/:path/
   photos:
     output: true
     permalink: /:collection/:path/
@@ -182,17 +179,6 @@ collections:
 
 # Defaults
 defaults:
-  # _awards
-  - scope:
-      path: ""
-      type: awards
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: ""
@@ -200,24 +186,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _education
-  - scope:
-      path: ""
-      type: education
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _photos
-  - scope:
-      path: ""
-      type: photos
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _travel
   - scope:
       path: ""
