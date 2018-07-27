@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yang Zhang's webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yang Zhang"
 description              : &description "personal description"
 url                      : https://yangzhangs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   location         : "Changsha, Hunan, China"
   employer         :
   researchgate     : "https://www.researchgate.net/profile/Yang_Zhang178"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "yangzhang15@nudt.edu.cn"
   uri              :
   bitbucket        :
