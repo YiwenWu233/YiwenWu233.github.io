@@ -5,32 +5,32 @@ author_profile: true
 ---
 
 ## 2018
-* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov. "A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories." <i>SCIENCE CHINA Information Sciences</i>, 2018. [pdf]
+* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov. "A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories." <i>SCIENCE CHINA Information Sciences</i>, 2018. [pdf](/files/SCIS_2018_dockerfile.pdf)
 
 * `[c]` <strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang, Bogdan Vasilescu and Vladimir Filkov. "Within-Ecosystem Issue Linking: A Large-scale Study of Rails". <i>The 7th International Workshop on Mining Software Repositories (SoftwareMining@ASE 2018)</i>, France. 2018. [Accepted].
 
 * `[c]` <strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov. "One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows". <i> the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2018)</i>, USA. 2018. [Accepted].
 
-* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency." <i>The IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC 2018)</i>, Japan. 2018. [pdf]
+* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency." <i>The IEEE 42nd Annual Computer Software and Applications Conference (COMPSAC 2018)</i>, Japan. 2018. [pdf](/files/COMPSAC_2018_dockerfile.pdf)
 
 
 
 ## 2017
-* `[j]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. "Internal quality assurance for external contributions in GitHub: An empirical investigation." <i>Journal of Software: Evolution and Process</i>, 2017. [pdf]
+* `[j]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. "Internal quality assurance for external contributions in GitHub: An empirical investigation." <i>Journal of Software: Evolution and Process</i>, 2017. [pdf](/files/JSEP_2017_lu.pdf)
 
-* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Social media in GitHub: the role of @-mention in assisting software development." <i>SCIENCE CHINA Information Sciences</i>, 2017. [pdf]
+* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Social media in GitHub: the role of @-mention in assisting software development." <i>SCIENCE CHINA Information Sciences</i>, 2017. [pdf](/files/SCIS_2017_at.pdf)
 
 ## 2016
-* `[c]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016)</i>, Hamilton, New Zealand. 2016. [pdf]
+* `[c]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016)</i>, Hamilton, New Zealand. 2016. [pdf](/files/APSEC_2016_lu.pdf)
 
-* `[c]` Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin. Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search. <i>The 8th Asia-Pacific Symposium on Internetware (Internetware 2016)</i>, Bei Jing, China. 2016. [pdf]
+* `[c]` Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin. Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search. <i>The 8th Asia-Pacific Symposium on Internetware (Internetware 2016)</i>, Bei Jing, China. 2016. [pdf](/files/Internetware_2016_li.pdf)
 
 
 
 ## 2015
-* `[c]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Exploring the Use of @-mention to Assist Software Development in GitHub." <i>The 7th Asia-Pacific Symposium on Internetware (Internetware 2015)</i>, Wu Han, China. 2015. (Nominated for best paper, Recommended to the SCIENCE CHINA Information Sciences) [pdf]
+* `[c]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Exploring the Use of @-mention to Assist Software Development in GitHub." <i>The 7th Asia-Pacific Symposium on Internetware (Internetware 2015)</i>, Wu Han, China. 2015. (Nominated for best paper, Recommended to the SCIENCE CHINA Information Sciences) [pdf](/files/Internetware_2015_at.pdf)
 
-* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study." <i>The 7th Asia-Pacific Symposium on Internetware (Internetware 2015)</i>, Wu Han, China. 2015. [pdf]
+* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study." <i>The 7th Asia-Pacific Symposium on Internetware (Internetware 2015)</i>, Wu Han, China. 2015. [pdf](/files/Internetware_2015_bug.pdf)
 
 * `[c]` Gang Yin, Tao Wang, Huaimin Wang, Qiang Fan, <strong>Yang Zhang</strong>, Yue Yu, Cheng Yang. "OSSEAN: Mining Crowd Wisdom in Open Source Communities." <i>The 9th International Symposium on Service-Oriented System Engineering (SOSE 2015)</i>, San Francisco Bay, USA. 2015. [pdf](/files/SOSE_2015_OSSEAN.pdf)
 
