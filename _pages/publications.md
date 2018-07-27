@@ -21,9 +21,9 @@ author_profile: true
 * `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Social media in GitHub: the role of @-mention in assisting software development." <i>SCIENCE CHINA Information Sciences</i>, 2017. [pdf]
 
 ## 2016
-* `[c]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016)</i>, Hamilton, New Zealand. 2016.[pdf]
+* `[c]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016)</i>, Hamilton, New Zealand. 2016. [pdf]
 
-* `[c]` Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin. Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search. <i>The 8th Asia-Pacific Symposium on Internetware (Internetware 2016)</i>, Bei Jing, China. 2016.[pdf]
+* `[c]` Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin. Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search. <i>The 8th Asia-Pacific Symposium on Internetware (Internetware 2016)</i>, Bei Jing, China. 2016. [pdf]
 
 
 
