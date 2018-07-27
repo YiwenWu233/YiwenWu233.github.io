@@ -32,10 +32,10 @@ author_profile: true
 
 * `[c]` <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study." <i>The 7th Asia-Pacific Symposium on Internetware (Internetware 2015)</i>, Wu Han, China. 2015. [pdf]
 
-* `[c]` Gang Yin, Tao Wang, Huaimin Wang, Qiang Fan, <strong>Yang Zhang</strong>, Yue Yu, Cheng Yang. "OSSEAN: Mining Crowd Wisdom in Open Source Communities." <i>The 9th International Symposium on Service-Oriented System Engineering (SOSE 2015)</i>, San Francisco Bay, USA. 2015. [pdf]
+* `[c]` Gang Yin, Tao Wang, Huaimin Wang, Qiang Fan, <strong>Yang Zhang</strong>, Yue Yu, Cheng Yang. "OSSEAN: Mining Crowd Wisdom in Open Source Communities." <i>The 9th International Symposium on Service-Oriented System Engineering (SOSE 2015)</i>, San Francisco Bay, USA. 2015. [pdf](/files/SOSE_2015_OSSEAN.pdf)
 
 
 ## 2014
-* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails." <i>International Workshop on Crowd-based Software Development Methods and Technologies (CrowdSoft@FSE 2014)</i>, Hong Kong, China. 2014. [pdf]
+* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails." <i>International Workshop on Crowd-based Software Development Methods and Technologies (CrowdSoft@FSE 2014)</i>, Hong Kong, China. 2014. [pdf](/files/CrowdSoft_2014_at.pdf)
 
-* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "An Exploratory Study of @-mention in GitHub's Pull-requests." <i>The 21th Asia-Pacific Software Engineering Conference (APSEC 2014)</i>, JEJU, KOREA. 2014. [pdf]
+* `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "An Exploratory Study of @-mention in GitHub's Pull-requests." <i>The 21th Asia-Pacific Software Engineering Conference (APSEC 2014)</i>, JEJU, KOREA. 2014. [pdf](/files/APSEC_2014_at.pdf)
