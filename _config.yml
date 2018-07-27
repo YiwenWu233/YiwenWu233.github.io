@@ -178,7 +178,7 @@ collections:
   photos:
     output: true
     permalink: /:collection/:path/
-  awards:
+  travel:
     output: true
     permalink: /:collection/:path/
 
@@ -230,10 +230,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _travel
   - scope:
       path: ""
-      type: talks
+      type: travel
     values:
       layout: talk
       author_profile: true
