@@ -16,7 +16,9 @@ author_profile: true
 
 
 ## 2017
-* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Social media in GitHub: the role of @-mention in assisting software development." <i>SCIENCE CHINA Information Sciences</i>, 2016.
+* `[j]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. "Internal quality assurance for external contributions in GitHub: An empirical investigation." <i>Journal of Software: Evolution and Process</i>, 2017. [pdf]
+
+* `[j]` <strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu. "Social media in GitHub: the role of @-mention in assisting software development." <i>SCIENCE CHINA Information Sciences</i>, 2017. [pdf]
 
 ## 2016
 * `[c]` Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference (APSEC 2016)</i>, Hamilton, New Zealand. 2016.[pdf]
@@ -37,9 +39,3 @@ author_profile: true
 * `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails." <i>International Workshop on Crowd-based Software Development Methods and Technologies (CrowdSoft@FSE 2014)</i>, Hong Kong, China. 2014. [pdf]
 
 * `[c]` <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "An Exploratory Study of @-mention in GitHub's Pull-requests." <i>The 21th Asia-Pacific Software Engineering Conference (APSEC 2014)</i>, JEJU, KOREA. 2014. [pdf]
-
-
-## 2013
-* `[j]` <strong>Yang Zhang</strong>, Ma Zhengran, Zhen Qianbing. "Research on Contactless Palm print Image Acquisition and Image Enhancement Technology." <i>Journal of Computer Technology and Development</i>, China. 2013. In Chinese.
-
-* `[c]` Yuan Yuan, <strong>Yang Zhang</strong>, Zheng Mingling, Xing Jianying, Sun Yanqiang. "Global View Design and Implementation for the Front-ends in Super Computer Monitoring Systems." <i>The 17th National Conference on Computer Engineering and Technology and the 3nd Microprocessor Forum</i>, China. In Chinese.
