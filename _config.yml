@@ -172,9 +172,6 @@ collections:
   photos:
     output: true
     permalink: /:collection/:path/
-  travel:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -186,14 +183,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _travel
-  - scope:
-      path: ""
-      type: travel
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
