@@ -7,7 +7,7 @@ main:
     url: /education/ 
 
   - title: "Awards"
-    url: /year-archive/
+    url: /awards/
 
   - title: "Travel"
     url: /travel/     
