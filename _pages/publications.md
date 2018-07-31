@@ -16,8 +16,6 @@ author_profile: true
 
 * <strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov. "One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows". <i> the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. [preprint](/files/FSE_2018_cd.pdf).
 
-* <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency." <i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. [pdf](/files/COMPSAC_2018_dockerfile.pdf)
-
 * Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub. <i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. [pdf](/files/APSEC_2016_lu.pdf)
 
 * Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin. Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search. <i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. 2016. [pdf](/files/Internetware_2016_li.pdf)
@@ -34,5 +32,6 @@ author_profile: true
 * <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang. "Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails." <i>International Workshop on Crowd-based Software Development Methods and Technologies ([CrowdSoft@FSE 2014](http://fse22.gatech.edu/workshops))</i>, Hong Kong, China. 2014. [pdf](/files/CrowdSoft_2014_at.pdf)
 
 ## Short papers
+* <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency." <i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. [pdf](/files/COMPSAC_2018_dockerfile.pdf)
 
 * <strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang. "Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study." <i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. 2015. [pdf](/files/Internetware_2015_bug.pdf)
