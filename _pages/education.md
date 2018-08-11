@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## March 2015 - Present
-National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. (Ahead of Master Graduation Time)
+National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
 * Phd. Candidate
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
 * Software Engineering, Open Source Software, Data Mining, Social Network. 
@@ -17,7 +17,7 @@ National Laboratory for Parallel and Distributed Processing (PDL), National Univ
 * Open Source Software, Software Engineering, GiHub, Mining Software Repositories.
 
 ## September 2013 - March 2015
-National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. (Ahead of Master Graduation Time)
+National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China. 
 * M.S. 
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
 * Software Engineering, Open Source Software, Data Mining, Social Network. 
