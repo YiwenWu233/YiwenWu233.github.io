@@ -23,6 +23,6 @@ National Laboratory for Parallel and Distributed Processing (PDL), National Univ
 * Software Engineering, Open Source Software, Data Mining, Social Network. 
 
 ## September 2009 - July 2013
-National University of Defense Technology (NUDT), China. (Ahead of Master Graduation Time)
+National University of Defense Technology (NUDT), China. 
 * B.E. 
 * Computer Science and Technology.
