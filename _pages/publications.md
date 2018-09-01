@@ -13,6 +13,7 @@ author_profile: true
 
 
 ## Conferences
+* Tao Wang and <strong>Yang Zhang</strong>. Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors. <i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. [Full paper]. [Accepted](https://internetware2018.github.io/Program.html).
 
 * <strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov. "One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows". <i> the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. [Full paper]. [preprint](/files/FSE_2018_cd.pdf).
 
