@@ -7,24 +7,24 @@ author_profile: true
 ## Journals
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) <br />
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188. CCF-B. <br />
 	[pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
 * Internal quality assurance for external contributions in GitHub: An empirical investigation. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. (Impact factor: 1.167) <br />
+	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. Impact factor: 1.167. CCF-B.<br />
 	[pdf](/files/JSEP_2017_lu.pdf)</small>
 
 * Social media in GitHub: the role of @-mention in assisting software development. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. (Impact factor: 2.188) <br />
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. Impact factor: 2.188. CCF-B.<br />
 	[pdf](/files/SCIS_2017_at.pdf)</small>
 
 
 ## Conferences
 * Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. </small>
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C.</small>
 
 * Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors. <font color="red">Accepted!</font><br />
 	<small>Tao Wang, <strong>Yang Zhang</strong> <br />
@@ -32,17 +32,17 @@ author_profile: true
 
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
-	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper.<br />
-	[preprint](/files/FSE_2018_cd.pdf).</small>
+	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A.<br />
+	[preprint](/files/FSE_2018_cd.pdf)</small>
 
 * An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
-	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper.<br />
+	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C.<br />
 	[pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
 
 * Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub.<br />
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper.<br />
+	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C.<br />
 	[pdf](/files/APSEC_2016_lu.pdf)</small>
 
 * Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search.<br />
@@ -67,14 +67,14 @@ author_profile: true
 
 * An Exploratory Study of @-mention in GitHub's Pull-requests.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
-	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. <br />
+	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. CCF-C.<br />
 	[pdf](/files/APSEC_2014_at.pdf)</small>
 
 ## Workshops
 * Within-Ecosystem Issue Linking: A Large-scale Study of Rails.<br />
 	<small><strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang, Bogdan Vasilescu and Vladimir Filkov <br />
 	<i>The 7th International Workshop on Mining Software Repositories ([SoftwareMining@ASE 2018](http://www.ase2018.com/?p=workshops#mining))</i>, France. 2018. Full paper. <br />
-	[pdf](/files/SoftwareMining_2018_EcoLinking.pdf).</small>
+	[pdf](/files/SoftwareMining_2018_EcoLinking.pdf)</small>
 
 * Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
