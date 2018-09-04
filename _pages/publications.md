@@ -5,9 +5,10 @@ author_profile: true
 ---
 
 ## Journals
-* A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. [pdf](/files/SCIS_2018_dockerfile.pdf)<br />
+* A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) </small>
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) <br />
+	[pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
 * Internal quality assurance for external contributions in GitHub: An empirical investigation. [pdf](/files/JSEP_2017_lu.pdf)<br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
@@ -19,7 +20,7 @@ author_profile: true
 
 
 ## Conferences
-* Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors". <i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. [Full paper]. <font color="red">Accepted</font>
+* Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors". <i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. [Full paper]. <font color="red">Accepted!</font>
 
 * <strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov. "One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows". <i> the 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. [Full paper]. [preprint](/files/FSE_2018_cd.pdf).
 
