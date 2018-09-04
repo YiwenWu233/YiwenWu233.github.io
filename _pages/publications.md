@@ -7,16 +7,18 @@ author_profile: true
 ## Journals
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) </small><br />
-	[pdf](/files/SCIS_2018_dockerfile.pdf)
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) <br />
+	[pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
-* Internal quality assurance for external contributions in GitHub: An empirical investigation. [pdf](/files/JSEP_2017_lu.pdf)<br /> 
+* Internal quality assurance for external contributions in GitHub: An empirical investigation. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. (Impact factor: 1.167) </small>
+	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. (Impact factor: 1.167) <br />
+	[pdf](/files/JSEP_2017_lu.pdf)</small>
 
-* Social media in GitHub: the role of @-mention in assisting software development. [pdf](/files/SCIS_2017_at.pdf)<br />
+* Social media in GitHub: the role of @-mention in assisting software development. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. (Impact factor: 2.188) </small>
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. (Impact factor: 2.188) <br />
+	[pdf](/files/SCIS_2017_at.pdf)</small>
 
 
 ## Conferences
