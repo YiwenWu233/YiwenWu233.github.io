@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 ## Journals
-* A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories.
+* A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. [pdf](/files/SCIS_2018_dockerfile.pdf)
 <small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov</small> 
-<small><i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
+<small><i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. (Impact factor: 2.188) </small>
 
 * Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin. "Internal quality assurance for external contributions in GitHub: An empirical investigation." <i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. (Impact factor: 1.167) [pdf](/files/JSEP_2017_lu.pdf)
 
