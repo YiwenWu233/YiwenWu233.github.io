@@ -24,7 +24,7 @@ author_profile: true
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C.</small>
 
 * Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors. <font color="red">Accepted!</font><br />
-	<small>Tao Wang, <strong>Yang Zhang</strong> <br />
+	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
 	<i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. Full paper. </small>
 
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <br />
