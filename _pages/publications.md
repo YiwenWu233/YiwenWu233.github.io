@@ -39,9 +39,9 @@ author_profile: true
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
 	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C. [pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
 
-* Octopus: A Data Acquisition System for Open Source Communities.<br />
-	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
-	<i>The  International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. 2016. Full paper. [pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
+* Bugs and features, do developers treat them differently?<br />
+	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
+	<i>The International Conference on Artificial Intelligence and Big Data ([ICAIBD 2018](https://ieeexplore.ieee.org/abstract/document/8396204/))</i>. 2018. Short paper. [pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>
 
 * Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub.<br />
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
@@ -50,6 +50,10 @@ author_profile: true
 * Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search.<br />
 	<small>Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin<br />
 	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. 2016. Full paper. [pdf](/files/Internetware_2016_li.pdf)</small>
+
+* Octopus: A Data Acquisition System for Open Source Communities.<br />
+	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
+	<i>The International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. 2016. Full paper. [pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
 
 * Exploring the Use of @-mention to Assist Software Development in GitHub.<br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
