@@ -39,6 +39,10 @@ author_profile: true
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
 	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C. [pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
 
+* Octopus: A Data Acquisition System for Open Source Communities.<br />
+	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
+	<i>The  International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. 2016. Full paper. [pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
+
 * Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub.<br />
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
 	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C.	[pdf](/files/APSEC_2016_lu.pdf)</small>
