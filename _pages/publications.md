@@ -9,6 +9,10 @@ author_profile: true
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188. CCF-B. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
+* Correlation-based software search by leveraging software term database. <br />
+	<small>Zhixing Li, Gang Yin, Tao Wang, <strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang<br />
+	<i>[Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/2095-2228/current.shtml)</i>, 2018. Impact factor: 1.105. CCF-C. [pdf](/files/FCS_2018_li.pdf)</small>
+
 * Internal quality assurance for external contributions in GitHub: An empirical investigation. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
 	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. Impact factor: 1.167. CCF-B. [pdf](/files/JSEP_2017_lu.pdf)</small>
