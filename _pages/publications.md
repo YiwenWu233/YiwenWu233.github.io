@@ -31,7 +31,7 @@ author_profile: true
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
 	<i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. Full paper. </small>
 
-* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <br />
+* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <font color="red">Accepted!</font><br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
 	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. [preprint](/files/FSE_2018_cd.pdf)</small>
 
