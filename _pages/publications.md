@@ -25,7 +25,7 @@ author_profile: true
 ## Conferences
 * Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C.</small>
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. [preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
 * Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors. <font color="red">Accepted!</font><br />
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
