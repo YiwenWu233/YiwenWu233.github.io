@@ -42,39 +42,48 @@ author_profile: true
 
 * An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
-	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C. [pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
+	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C. <br />
+	[pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
 
 * Bugs and features, do developers treat them differently?<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
-	<i>The International Conference on Artificial Intelligence and Big Data ([ICAIBD 2018](https://ieeexplore.ieee.org/abstract/document/8396204/))</i>. 2018. Short paper. [pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>
+	<i>The International Conference on Artificial Intelligence and Big Data ([ICAIBD 2018](https://ieeexplore.ieee.org/abstract/document/8396204/))</i>. 2018. Short paper. <br />
+	[pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>
 
 * Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub.<br />
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C.	[pdf](/files/APSEC_2016_lu.pdf)</small>
+	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C.	<br />
+	[pdf](/files/APSEC_2016_lu.pdf)</small>
 
 * Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search.<br />
 	<small>Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin<br />
-	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. 2016. Full paper. [pdf](/files/Internetware_2016_li.pdf)</small>
+	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. 2016. Full paper. <br />
+	[pdf](/files/Internetware_2016_li.pdf)</small>
 
 * Octopus: A Data Acquisition System for Open Source Communities.<br />
 	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
-	<i>The International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. 2016. Full paper. [pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
+	<i>The International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. 2016. Full paper. <br />
+	[pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
 
 * Exploring the Use of @-mention to Assist Software Development in GitHub.<br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
-	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. 2015. Full paper. (Nominated for best paper, Recommended to the SCIENCE CHINA Information Sciences). [pdf](/files/Internetware_2015_at.pdf)</small>
+	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. 2015. Full paper. (Nominated for best paper, Recommended to the SCIENCE CHINA Information Sciences). <br />
+	[pdf](/files/Internetware_2015_at.pdf)</small>
 
 * Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
-	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. 2015. Short paper. [pdf](/files/Internetware_2015_bug.pdf)</small>
+	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. 2015. Short paper. <br />
+	[pdf](/files/Internetware_2015_bug.pdf)</small>
 
 * OSSEAN: Mining Crowd Wisdom in Open Source Communities.<br />
 	<small>Gang Yin, Tao Wang, Huaimin Wang, Qiang Fan, <strong>Yang Zhang</strong>, Yue Yu, Cheng Yang<br />
-	<i>The 9th International Symposium on Service-Oriented System Engineering ([SOSE 2015](http://sose2015.com/))</i>, San Francisco Bay, USA. 2015. Full paper. [pdf](/files/SOSE_2015_OSSEAN.pdf)</small>
+	<i>The 9th International Symposium on Service-Oriented System Engineering ([SOSE 2015](http://sose2015.com/))</i>, San Francisco Bay, USA. 2015. Full paper. <br />
+	[pdf](/files/SOSE_2015_OSSEAN.pdf)</small>
 
 * An Exploratory Study of @-mention in GitHub's Pull-requests.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
-	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. CCF-C.	[pdf](/files/APSEC_2014_at.pdf)</small>
+	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. CCF-C.	<br />
+	[pdf](/files/APSEC_2014_at.pdf)</small>
 
 ## Workshops
 * Within-Ecosystem Issue Linking: A Large-scale Study of Rails.<br />
@@ -84,7 +93,8 @@ author_profile: true
 
 * Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
-	<i>International Workshop on Crowd-based Software Development Methods and Technologies ([CrowdSoft@FSE 2014](http://fse22.gatech.edu/workshops))</i>, Hong Kong, China. 2014. Full paper. [pdf](/files/CrowdSoft_2014_at.pdf)</small>
+	<i>International Workshop on Crowd-based Software Development Methods and Technologies ([CrowdSoft@FSE 2014](http://fse22.gatech.edu/workshops))</i>, Hong Kong, China. 2014. Full paper. <br />
+	[pdf](/files/CrowdSoft_2014_at.pdf)</small>
 
 
 
