@@ -37,8 +37,8 @@ author_profile: true
 
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <font color="red">Accepted!</font><br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
-	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. () <br />
-	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows/links/5b8411e192851c1e1235ab51/One-Size-Does-Not-Fit-All-An-Empirical-Study-of-Containerized-Continuous-Deployment-Workflows.pdf)</small>
+	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. (55/289=19.0%) <br />
+	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows</small>
 
 * An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
