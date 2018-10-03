@@ -79,7 +79,8 @@ author_profile: true
 ## Workshops
 * Within-Ecosystem Issue Linking: A Large-scale Study of Rails.<br />
 	<small><strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang, Bogdan Vasilescu and Vladimir Filkov <br />
-	<i>The 7th International Workshop on Software Mining ([SoftwareMining@ASE 2018](http://www.ase2018.com/?p=workshops#mining))</i>, France. 2018. Full paper. [pdf](/files/SoftwareMining_2018_EcoLinking.pdf)</small>
+	<i>The 7th International Workshop on Software Mining ([SoftwareMining@ASE 2018](http://www.ase2018.com/?p=workshops#mining))</i>, France. 2018. Full paper.<br /> 
+	[pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/326711070_Within-Ecosystem_Issue_Linking_A_Large-scale_Study_of_Rails/links/5b6e2b81a6fdcc87df712cd8/Within-Ecosystem-Issue-Linking-A-Large-scale-Study-of-Rails.pdf)</small>
 
 * Investigating social media in GitHub's pull-requests: a case study on Ruby on Rails.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
