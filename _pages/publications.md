@@ -33,7 +33,7 @@ author_profile: true
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
 	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
-* Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors. <font color="red">Accepted!</font><br />
+* Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors.<br />
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
 	<i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. Full paper. 
 	<br />
