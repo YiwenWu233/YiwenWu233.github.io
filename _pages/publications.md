@@ -23,6 +23,11 @@ author_profile: true
 
 
 ## Conferences
+* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <font color="red">Accepted!</font><br />
+	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
+	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. (55/289=19.0%) <br />
+	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
+
 * Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
@@ -32,13 +37,8 @@ author_profile: true
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
 	<i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. 2018. Full paper. 
 	<br />
-	[preprint](https://www.researchgate.net/publication/327642306_Who_Will_Become_a_Long-Term_Contributor_A_Prediction_Model_based_on_the_Early_Phase_Behaviors)
+	[pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/327642306_Who_Will_Become_a_Long-Term_Contributor_A_Prediction_Model_based_on_the_Early_Phase_Behaviors/links/5bc28e93458515a7a9e72d90/Who-Will-Become-a-Long-Term-Contributor-A-Prediction-Model-based-on-the-Early-Phase-Behaviors.pdf)
 	</small>
-
-* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <font color="red">Accepted!</font><br />
-	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
-	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. (55/289=19.0%) <br />
-	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
 
 * An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
