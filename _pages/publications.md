@@ -29,9 +29,14 @@ author_profile: true
 	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
 
 * Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
-	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
+	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
 	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
+
+* Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs. <font color="red">Accepted!</font><br />
+	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
+	[preprint]()/small>
 
 * Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors.<br />
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
