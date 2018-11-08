@@ -23,11 +23,6 @@ author_profile: true
 
 
 ## Conferences
-* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows. <font color="red">Accepted!</font><br />
-	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
-	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. (55/289=19.0%) <br />
-	[preprint](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
-
 * Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
@@ -37,6 +32,11 @@ author_profile: true
 	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
 	[preprint]()</small>
+
+* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows.<br />
+	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
+	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. <br />
+	[pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
 
 * Who Will Become a Long-Term Contributor? A Prediction Model based on the Early Phase Behaviors.<br />
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
