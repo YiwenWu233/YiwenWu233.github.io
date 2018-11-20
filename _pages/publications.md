@@ -51,8 +51,8 @@ author_profile: true
 	[preprint]()</small>
 
 * Using Document Embedding Techniques for Similar Bug Reports Recommendation.<br />
-	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long,Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
-	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html)</i>, Beijing, China. 2018.<br />
+	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
+	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html))</i>, Beijing, China. 2018.<br />
 	[preprint]()</small>
 
 
