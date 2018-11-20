@@ -23,16 +23,6 @@ author_profile: true
 
 
 ## Conferences
-* Multi-discussing across Issues in GitHub: a preliminary study. <font color="red">Accepted!</font><br />
-	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
-	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
-
-* Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs. <font color="red">Accepted!</font><br />
-	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
-	[preprint]()</small>
-
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows.<br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
 	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper. CCF-A. <br />
@@ -49,6 +39,22 @@ author_profile: true
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
 	<i>The IEEE 42nd Annual Computer Software and Applications Conference ([COMPSAC 2018](https://ieeecompsac.computer.org/2018/))</i>, Japan. 2018. Short paper. CCF-C. <br />
 	[pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
+
+* Multi-discussing across Issues in GitHub: a preliminary study.<br />
+	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
+	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
+
+* Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs.<br />
+	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
+	[preprint]()</small>
+
+* Using Document Embedding Techniques for Similar Bug Reports Recommendation.<br />
+	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long,Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
+	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html)</i>, Beijing, China. 2018.<br />
+	[preprint]()</small>
+
 
 * Bugs and features, do developers treat them differently?<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
