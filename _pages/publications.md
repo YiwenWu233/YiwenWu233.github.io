@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## Journals
+* An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
+	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
+	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. [pdf]</small>
+
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188. CCF-B. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
