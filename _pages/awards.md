@@ -4,7 +4,7 @@ title: "Awards and Honors"
 author_profile: true
 ---
 
-## Awards
+## Awards & Honors (before graduation)
 * 2016 OW2 International Programming Contest
 	* Third Prize
 
@@ -26,7 +26,9 @@ author_profile: true
 * 2010 National Mathematical Contest
 	* Second Prize
 
-## Honors
+#  
+* 2018 Scholarship of Zhou Mingxi 
+
 * 2016-2017 Honored as Excellent graduate student of College of Computer (NUDT)
 
 * 2013-2014 Honored as Excellent graduate student of College of Computer (NUDT)
