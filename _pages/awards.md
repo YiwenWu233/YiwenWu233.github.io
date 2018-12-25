@@ -25,8 +25,7 @@ author_profile: true
 
 * 2010 National Mathematical Contest
 	* Second Prize
-
-##  
+  
 * 2018 Scholarship of Zhou Mingxi 
 
 * 2016-2017 Honored as Excellent graduate student of College of Computer (NUDT)
