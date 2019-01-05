@@ -49,12 +49,12 @@ author_profile: true
 	[pdf](/files/COMPSAC_2018_dockerfile.pdf)</small>
 
 * Multi-discussing across Issues in GitHub: a preliminary study.<br />
-	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang</strong> <br />
+	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
 	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
 * Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs.<br />
-	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
+	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
 	[preprint]()</small>
 
