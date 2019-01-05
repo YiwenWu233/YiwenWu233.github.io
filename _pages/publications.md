@@ -5,9 +5,13 @@ author_profile: true
 ---
 
 ## Journals
+* A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects. <br />
+  <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.188. CCF-B. Accepted.</small> 
+
 * An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
 	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
-	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese.</small>
+	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese. Accepted.</small>
 
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
