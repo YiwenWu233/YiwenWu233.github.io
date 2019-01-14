@@ -12,8 +12,8 @@ main:
   - title: "Travel"
     url: /travel/     
     
-#  - title: "Photos"
-#    url: /photos/
+  - title: "Service"
+    url: /service/
     
 #  - title: "CV"
 #    url: /cv/
