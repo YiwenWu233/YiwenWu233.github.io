@@ -7,27 +7,33 @@ author_profile: true
 ## Journals
 * A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.188. CCF-B. Accepted.</small> 
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.188. CCF-B.<br /> 
+	Accepted.</small> 
 
 * An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
 	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
-	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese. Accepted.</small>
+	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese. <br />
+	Accepted.</small>
 
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188. CCF-B. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188. CCF-B. <br />
+	[pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
 * Correlation-based software search by leveraging software term database. <br />
 	<small>Zhixing Li, Gang Yin, Tao Wang, <strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang<br />
-	<i>[Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/2095-2228/current.shtml)</i>, 2018. Impact factor: 1.105. CCF-C. [pdf](/files/FCS_2018_li.pdf)</small>
+	<i>[Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/2095-2228/current.shtml)</i>, 2018. Impact factor: 1.105. CCF-C. <br />
+	[pdf](/files/FCS_2018_li.pdf)</small>
 
 * Internal quality assurance for external contributions in GitHub: An empirical investigation. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. Impact factor: 1.167. CCF-B. [pdf](/files/JSEP_2017_lu.pdf)</small>
+	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. Impact factor: 1.167. CCF-B. <br />
+	[pdf](/files/JSEP_2017_lu.pdf)</small>
 
 * Social media in GitHub: the role of @-mention in assisting software development. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. Impact factor: 2.188. CCF-B. [pdf](/files/SCIS_2017_at.pdf)</small>
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. Impact factor: 2.188. CCF-B. <br />
+	[pdf](/files/SCIS_2017_at.pdf)</small>
 
 
 ## Conferences
@@ -50,7 +56,7 @@ author_profile: true
 
 * Multi-discussing across Issues in GitHub: a preliminary study.<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang (Corresponding author)</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C. (50/191=26.2%)<br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C.<br />
 	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
 * Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs.<br />
