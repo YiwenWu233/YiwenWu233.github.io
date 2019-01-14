@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## Awards & Honors (before graduation)
+<strong>Awards:</strong>
+
 * 2016 OW2 International Programming Contest
 	* Third Prize
 
@@ -25,18 +27,28 @@ author_profile: true
 
 * 2010 National Mathematical Contest
 	* Second Prize
+
+<strong>Honors:</strong>
+
+* 2018 Awarded Academic Innovation Star in NUDT (Top1)
   
-* 2018 Scholarship of Zhou Mingxi 
+* 2018 Awarded Scholarship of Zhou Mingxi in NUDT (Top1)
 
-* 2016-2017 Honored as Excellent graduate student of College of Computer (NUDT)
+* 2017 Honored as Excellent graduate student of College of Computer (NUDT)
 
-* 2013-2014 Honored as Excellent graduate student of College of Computer (NUDT)
+* 2014 Honored as Excellent graduate student of College of Computer (NUDT)
 
-* 2012 Awarded "Yin He" Scholarship in NUDT
+* 2013 Honored as Excellent undergraduate student of College of Computer (NUDT)
+
+* 2012 Awarded "Yin He" Scholarship in NUDT (Top2)
+
+* 2012 Honored as Excellent undergraduate student of College of Computer (NUDT)
 
 * 2011 Honored as Excellent undergraduate student of NUDT
 
-* 2009-2013 Honored as Excellent undergraduate student of College of Computer (NUDT) (four times)
+* 2011 Honored as Excellent undergraduate student of College of Computer (NUDT) 
+
+* 2010 Honored as Excellent undergraduate student of College of Computer (NUDT) 
 
 
 
