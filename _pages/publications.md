@@ -56,12 +56,12 @@ author_profile: true
 
 * Multi-discussing across Issues in GitHub: a preliminary study.<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang (Corresponding author)</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C.<br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. CCF-C;CORE-B<br />
 	[preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
 * Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs.<br />
 	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang (Corresponding author)</strong> <br />
-	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C.<br />
+	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. CCF-C;CORE-B<br />
 	[preprint]()</small>
 
 * Using Document Embedding Techniques for Similar Bug Reports Recommendation.<br />
@@ -77,7 +77,7 @@ author_profile: true
 
 * Does the Role Matter? An Investigation of Casual Contributors' Code Quality in GitHub.<br />
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
-	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C.	<br />
+	<i>The 23rd Asia-Pacific Software Engineering Conference ([APSEC 2016](http://www.apsec2016.org/))</i>, Hamilton, New Zealand. 2016. Full paper. CCF-C;CORE-B	<br />
 	[pdf](/files/APSEC_2016_lu.pdf)</small>
 
 * Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search.<br />
@@ -107,7 +107,7 @@ author_profile: true
 
 * An Exploratory Study of @-mention in GitHub's Pull-requests.<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Yue Yu, Huaimin Wang<br />
-	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. CCF-C.	<br />
+	<i>The 21th Asia-Pacific Software Engineering Conference ([APSEC 2014](https://dblp.uni-trier.de/db/conf/apsec/apsec2014-1))</i>, JEJU, KOREA. 2014. Full paper. CCF-C;CORE-B<br />
 	[pdf](/files/APSEC_2014_at.pdf)</small>
 
 ## Workshops
