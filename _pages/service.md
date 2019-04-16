@@ -10,6 +10,8 @@ author_profile: true
 
 * Science China Information Sciences (SCIS)
 
+* IEEE Access
+
 <strong>Conferences:</strong>
 * Internetware 2015
 
