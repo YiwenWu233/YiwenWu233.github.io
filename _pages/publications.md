@@ -5,9 +5,14 @@ author_profile: true
 ---
 
 ## Journals
+* Multi-reviewing Pull-requests: An Exploratory Study on GitHub OSS Projects. <br />
+  <small>Dongyang Hu, <strong>Yang Zhang (Corresponding author)</strong>, Junsheng Chang, Gang Yin, Yue Yu, and Tao Wang<br />
+	<i>[Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology)</i>, 2019. Impact factor: 2.921. <br /> 
+	CCF-B. Accepted.</small> 
+	
 * A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.188. <br /> 
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.731. <br /> 
 	CCF-B. Accepted.</small> 
 
 * An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
@@ -17,7 +22,7 @@ author_profile: true
 
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.188.  <br />
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.731.  <br />
 	CCF-B. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
 * Correlation-based software search by leveraging software term database. <br />
@@ -32,7 +37,7 @@ author_profile: true
 
 * Social media in GitHub: the role of @-mention in assisting software development. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
-	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. Impact factor: 2.188. <br />
+	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2017. Impact factor: 2.731. <br />
 	CCF-B. [pdf](/files/SCIS_2017_at.pdf)</small>
 
 
