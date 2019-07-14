@@ -13,7 +13,7 @@ author_profile: true
 * A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2019. Impact factor: 2.731. <br /> 
-	CCF-B. Accepted.</small> 
+	CCF-B. [pdf](https://www.researchgate.net/publication/334451847_A_Novel_Approach_for_Recommending_Semantically_Linkable_Issues_in_GitHub_Projects).</small> 
 
 * An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
 	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
