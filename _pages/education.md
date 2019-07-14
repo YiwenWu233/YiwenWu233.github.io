@@ -4,7 +4,7 @@ permalink: /education/
 author_profile: true
 ---
 
-## March 2015 - Present
+## March 2015 - 2019
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
 * Phd. Candidate
 * Advisor: Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin)
