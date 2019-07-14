@@ -62,17 +62,17 @@ author_profile: true
 * Multi-discussing across Issues in GitHub: a preliminary study.<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, Gang Yin, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Full paper. <br />
-	CCF-C; CORE-B. [preprint](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
+	CCF-C; CORE-B. [pdf](https://www.researchgate.net/publication/327906389_Multi-discussing_across_Issues_in_GitHub_a_preliminary_study)</small>
 
-* Combining Document Embedding model with Information Retrieval to Recommend Similar Bugs.<br />
+* Recommending Similar Bug Reports: A Novel Approach Using Document Embedding Model.<br />
 	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. 2018. Poster. <br />
-	CCF-C; CORE-B. [preprint]()</small>
+	CCF-C; CORE-B. [pdf](https://www.researchgate.net/publication/333341249_Recommending_Similar_Bug_Reports_A_Novel_Approach_Using_Document_Embedding_Model)</small>
 
 * Using Document Embedding Techniques for Similar Bug Reports Recommendation.<br />
 	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
 	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html))</i>, Beijing, China. 2018.<br />
-	[preprint]()</small>
+	[pdf](https://www.researchgate.net/publication/330439151_Using_Document_Embedding_Techniques_for_Similar_Bug_Reports_Recommendation)</small>
 
 * Bugs and features, do developers treat them differently?<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
