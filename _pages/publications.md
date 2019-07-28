@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journals
+* GitHub's milestone tool: a mixed-methods analysis on its use. <br />
+  <small><strong>Yang Zhang</strong>, Huaimin Wang, Yiwen Wu, Dongyang Hu, and Tao Wang<br />
+	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2019. Impact factor: 1.305.  <br />
+	CCF-B. Accepted.</small> 
+
 * Multi-reviewing Pull-requests: An Exploratory Study on GitHub OSS Projects. <br />
   <small>Dongyang Hu, <strong>Yang Zhang (Corresponding author)</strong>, Junsheng Chang, Gang Yin, Yue Yu, and Tao Wang<br />
 	<i>[Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology)</i>, 2019. Impact factor: 2.921. <br /> 
