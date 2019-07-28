@@ -12,7 +12,11 @@ author_profile: true
 
 * IEEE Access (open access)
 
+* Journal of Software (软件学报)
+
 <strong>Conferences:</strong>
 * Internetware 2015
+
+* NASAC 2019
 
 

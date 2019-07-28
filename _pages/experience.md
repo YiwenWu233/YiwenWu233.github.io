@@ -1,8 +1,13 @@
 ---
-title: "Education"
-permalink: /education/
+title: "Experience"
+permalink: /experience/
 author_profile: true
 ---
+
+## July 2019 - Now
+National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
+* Assistant Professor
+* Software Engineering, Open Source Software, Data Mining, Social Network. 
 
 ## March 2015 - June 2019
 National Laboratory for Parallel and Distributed Processing (PDL), National University of Defense Technology (NUDT), China.
