@@ -23,7 +23,7 @@ author_profile: true
 * An Embedding Model based Hybrid Approach for Linking Related Issues. <br />
 	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
 	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese. <br />
-	[pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
+	CCF-A. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
 
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
