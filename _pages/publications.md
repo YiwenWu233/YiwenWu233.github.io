@@ -47,6 +47,13 @@ author_profile: true
 
 
 ## Conferences
+* Exploring the Relationship Between Developer Activities and Profile Images on GitHub.<br />
+	<small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
+	<i>The 11th Asia-Pacific Symposium on Internetware ([Internetware 2019](https://internetware2019.github.io))</i>, Fukuoka, Japan. 2019. Full paper. 
+	<br />
+	Accepted.
+	</small>
+
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows.<br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
 	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. 2018. Full paper.  <br />
