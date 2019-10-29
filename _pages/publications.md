@@ -51,7 +51,7 @@ author_profile: true
 	<small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
 	<i>The 11th Asia-Pacific Symposium on Internetware ([Internetware 2019](https://internetware2019.github.io))</i>, Fukuoka, Japan. 2019. Full paper. 
 	<br />
-	Accepted.
+	[pdf](https://www.researchgate.net/publication/335827345_Exploring_the_Relationship_Between_Developer_Activities_and_Profile_Images_on_GitHub)
 	</small>
 
 * One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows.<br />
