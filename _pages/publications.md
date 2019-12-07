@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journals
+* iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects. <br />
+  <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, and Huaimin Wang<br />
+	<i>[World Wide Web Journal](https://link.springer.com/journal/11280)</i>, 2019. Impact factor: 1.770.  <br />
+	CCF-B. Accepted.</small> 
+
 * GitHub's milestone tool: a mixed-methods analysis on its use. <br />
   <small><strong>Yang Zhang</strong>, Huaimin Wang, Yiwen Wu, Dongyang Hu, and Tao Wang<br />
 	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2019. Impact factor: 1.305.  <br />
