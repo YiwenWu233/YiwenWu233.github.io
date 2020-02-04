@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Journals
+* Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study. <br />
+  <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
+	<i>[IEEE Access](https://ieeeaccess.ieee.org/)</i>, 2020. Impact factor: 4.098. <br />
+	Accepted. </small>
+
 * iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, and Huaimin Wang<br />
 	<i>[World Wide Web Journal](https://link.springer.com/journal/11280)</i>, 2019. Impact factor: 1.770.  <br />
