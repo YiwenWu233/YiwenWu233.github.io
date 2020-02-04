@@ -57,6 +57,11 @@ author_profile: true
 
 
 ## Conferences
+* Exploring the Relationship between Dockerfile Quality and Project Charateristics. <br />
+  <small>Yiwen Wu (Supervisor: Yang Zhang)<br />
+	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>, 2020.<br />
+	Accepted. </small>
+
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub.<br />
 	<small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
 	<i>The 11th Asia-Pacific Symposium on Internetware ([Internetware 2019](https://internetware2019.github.io))</i>, Fukuoka, Japan. 2019. Full paper. 
