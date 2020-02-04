@@ -17,4 +17,4 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* * Yiwen's work: "Exploring the Relationship between Dockerfile Quality and Project Charateristics" has been accepted in ICSE20-SRC track.
+* 02/20: Yiwen's work: *"Exploring the Relationship between Dockerfile Quality and Project Charateristics"* accepted by ICSE 2020 SRC track.
