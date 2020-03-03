@@ -59,8 +59,8 @@ author_profile: true
 ## Conferences
 * A Tale of Docker Build Failures: A Preliminary Study. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
-  <small>(**both are first authors and contributed equally to the work)<br />
-  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>, 2020. CCF-C; CORE-A**. <br />
+  <small>(\*both are first authors and contributed equally to the work)<br />
+  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>, 2020. CCF-C; CORE-A\*. <br />
   Accepted. </small>
 
 * Exploring the Relationship between Dockerfile Quality and Project Charateristics. <br />
