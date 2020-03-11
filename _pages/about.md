@@ -17,6 +17,6 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* 03/20: Our work: *"A Tale of Docker Build Failures: A Preliminary Study"* accepted by MSR 2020 technical track. 
+* 03/20: Our work: *"An Empirical Study of Build Failures in the Docker Context"* accepted by MSR 2020 technical track. 
 
 * 02/20: Yiwen's work: *"Exploring the Relationship between Dockerfile Quality and Project Charateristics"* accepted by ICSE 2020 SRC track.
