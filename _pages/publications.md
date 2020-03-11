@@ -57,7 +57,7 @@ author_profile: true
 
 
 ## Conferences
-* A Tale of Docker Build Failures: A Preliminary Study. <br />
+* An Empirical Study of Build Failures in the Docker Context. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
   <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>, 2020. CCF-C; CORE-A; QUALIS-B1. <br />
