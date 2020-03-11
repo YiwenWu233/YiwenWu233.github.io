@@ -4,13 +4,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journals
-* Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study. <br />
+## 2020
+* An Empirical Study of Build Failures in the Docker Context [C]. <br />
+  <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
+  (\*both are first authors and contributed equally to the work)<br />
+  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>, 2020. CCF-C; CORE-A; QUALIS-B1. <br />
+  Accepted. </small>
+
+* Exploring the Relationship between Dockerfile Quality and Project Charateristics [C]. <br />
+  <small>Yiwen Wu (Supervisor: <strong>Yang Zhang</strong>)<br />
+	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>, 2020.<br />
+	Accepted. </small>
+
+* Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
 	<i>[IEEE Access](https://ieeeaccess.ieee.org/)</i>, 2020. Impact factor: 4.098. <br />
 	Accepted. </small>
 
-* iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects. <br />
+
+
+## 2019
+* iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects [J]. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, and Huaimin Wang<br />
 	<i>[World Wide Web Journal](https://link.springer.com/journal/11280)</i>, 2019. Impact factor: 1.770.  <br />
 	CCF-B. Accepted.</small> 
@@ -35,6 +49,7 @@ author_profile: true
 	<i>[Journal of Software](http://www.jos.org.cn)</i>, 2019. In Chinese. <br />
 	CCF-A. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
 
+## 2018
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>, 2018. Impact factor: 2.731.  <br />
@@ -45,6 +60,7 @@ author_profile: true
 	<i>[Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/2095-2228/current.shtml)</i>, 2018. Impact factor: 1.129.  <br />
 	CCF-C. [pdf](/files/FCS_2018_li.pdf)</small>
 
+## 2017
 * Internal quality assurance for external contributions in GitHub: An empirical investigation. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
 	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>, 2017. Impact factor: 1.305.  <br />
@@ -57,16 +73,7 @@ author_profile: true
 
 
 ## Conferences
-* An Empirical Study of Build Failures in the Docker Context. <br />
-  <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
-  (\*both are first authors and contributed equally to the work)<br />
-  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>, 2020. CCF-C; CORE-A; QUALIS-B1. <br />
-  Accepted. </small>
 
-* Exploring the Relationship between Dockerfile Quality and Project Charateristics. <br />
-  <small>Yiwen Wu (Supervisor: <strong>Yang Zhang</strong>)<br />
-	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>, 2020.<br />
-	Accepted. </small>
 
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub.<br />
 	<small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
