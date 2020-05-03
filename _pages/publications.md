@@ -24,7 +24,7 @@ author_profile: true
 * Crowd-intelligence-based software development method and practices [J]. <br />
   <small>Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
         <i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
-	[pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
+	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
 ## 2019
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub [C].<br />
