@@ -8,13 +8,13 @@ author_profile: true
 * An Empirical Study of Build Failures in the Docker Context [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
-  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>. CCF-C; CORE-A; QUALIS-B1. <br />
-  Accepted. </small>
+  <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>.  <br />
+  CCF-C; CORE-A; QUALIS-B1. Accepted. </small>
 
 * Exploring the Relationship between Dockerfile Quality and Project Charateristics [C]. <br />
   <small>Yiwen Wu (Supervisor: <strong>Yang Zhang</strong>)<br />
 	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>.<br />
-	Accepted. </small>
+   CCF-A; CORE-A*; QUALIS-A1. Accepted. </small>
 
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
