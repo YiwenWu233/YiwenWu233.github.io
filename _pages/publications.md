@@ -9,17 +9,17 @@ author_profile: true
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
   <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>.  <br />
-  CCF-C; CORE-A; QUALIS-B1. Accepted. </small>
+  CCF-C; CORE-A; QUALIS-B1. [pdf](https://www.researchgate.net/publication/339840362_An_Empirical_Study_of_Build_Failures_in_the_Docker_Context) </small>
 
-* Exploring the Relationship between Dockerfile Quality and Project Charateristics [C]. <br />
+* Exploring the Relationship between Dockerfile Quality and Project Characteristics [C]. <br />
   <small>Yiwen Wu (Supervisor: <strong>Yang Zhang</strong>)<br />
 	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>.<br />
-   CCF-A; CORE-A*; QUALIS-A1. Accepted. </small>
+   CCF-A; CORE-A*; QUALIS-A1. [pdf](). </small>
 
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
 	<i>[IEEE Access](https://ieeeaccess.ieee.org/)</i>. Impact factor: 4.098. <br />
-	Accepted. </small>
+	[pdf](). </small>
 
 * Crowd-intelligence-based software development method and practices [J]. <br />
   <small>Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
@@ -37,17 +37,17 @@ author_profile: true
 * iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects [J]. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, and Huaimin Wang<br />
 	<i>[World Wide Web Journal](https://link.springer.com/journal/11280)</i>. Impact factor: 1.770.  <br />
-	CCF-B. Accepted.</small> 
+	CCF-B. [pdf]().</small> 
 
 * GitHub's milestone tool: a mixed-methods analysis on its use [J]. <br />
   <small><strong>Yang Zhang</strong>, Huaimin Wang, Yiwen Wu, Dongyang Hu, and Tao Wang<br />
 	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>. Impact factor: 1.305.  <br />
-	CCF-B. Accepted.</small> 
+	CCF-B. [pdf]().</small> 
 
 * Multi-reviewing Pull-requests: An Exploratory Study on GitHub OSS Projects [J]. <br />
   <small>Dongyang Hu, <strong>Yang Zhang (Corresponding author)</strong>, Junsheng Chang, Gang Yin, Yue Yu, and Tao Wang<br />
 	<i>[Information and Software Technology](https://www.journals.elsevier.com/information-and-software-technology)</i>. Impact factor: 2.921. <br /> 
-	CCF-B. Accepted.</small> 
+	CCF-B. [pdf]().</small> 
 	
 * A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects [J]. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
