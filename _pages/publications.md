@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## 2020
+* Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
+  <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
+  <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>.  <br />
+  CCF-B; CORE-A; QUALIS-A2. [pdf] </small>
+
 * An Empirical Study of Build Failures in the Docker Context [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
