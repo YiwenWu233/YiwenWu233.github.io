@@ -10,6 +10,8 @@ author_profile: true
 
 * Science China Information Sciences (SCIS)
 
+* The Visual Computer (TVCJ)
+
 * IEEE Access (open access)
 
 * Journal of Software (软件学报)
