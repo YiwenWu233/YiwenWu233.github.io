@@ -25,6 +25,12 @@ author_profile: true
   <small>Yiwen Wu (Supervisor: <strong>Yang Zhang</strong>)<br />
 	<i>The 42nd International Conference on Software Engineering, Student Research Competition ([ICSE 2020-SRC](https://conf.researchr.org/track/icse-2020/icse-2020-ACM-Student-Research-Competition))</i>.<br />
    CCF-A; CORE-A*; QUALIS-A1. [pdf](). </small>
+   
+* NiCad+: Speeding the Detecting Process of NiCad [C]. <br />
+  <small>Chenhui Feng, Tao Wang, Jinze Liu, <strong>Yang Zhang</strong>, Kele Xu, and Yijie Wang <br />
+  <i>The 14th IEEE International Conference on Service-Oriented System Engineering ([SOSE](http://www.ieeesose.net/))</i>.  <br />
+  QUALIS-B2. [pdf]() </small>
+
 
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
