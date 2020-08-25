@@ -8,7 +8,7 @@ author_profile: true
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
   <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>.  <br />
-  `CCF-B` `CORE-A` `QUALIS-A2` [pdf]() </small>
+  CCF-B; CORE-A; QUALIS-A2. [pdf]() </small>
   
 * Improving Deep Item-Based Collaborative Filtering with Bayesian Personalized Ranking for MOOC Course Recommendation [C]. <br />
   <small>Xiao Li, Xiang Li, Jintao Tang, Ting Wang, <strong>Yang Zhang</strong>, and Hongyi Chen <br />
