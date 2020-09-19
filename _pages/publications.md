@@ -8,12 +8,12 @@ author_profile: true
 * Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
-  <i>The 27th Asia-Pacific Software Engineering Conference ([APSEC 2020](https://formal-analysis.com/apsec/2020/))</i>. Full paper. <br />
+  <i>The 27th Asia-Pacific Software Engineering Conference ([APSEC 2020](https://formal-analysis.com/apsec/2020/))</i>. Accpeted. <br />
   CCF-C; CORE-B. [pdf]()</small>
 
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
-  <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>.  <br />
+  <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>. Accpeted.  <br />
   CCF-B; CORE-A; QUALIS-A2. [pdf]() </small>
   
 * Improving Deep Item-Based Collaborative Filtering with Bayesian Personalized Ranking for MOOC Course Recommendation [C]. <br />
