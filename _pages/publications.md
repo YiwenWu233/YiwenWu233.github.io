@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 ## 2020
+* Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
+  <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Bo Ding, Tao Wang and Huaimin Wang <br />
+  (\*both are first authors and contributed equally to the work)<br />
+  <i>The 26th IEEE International Conference on Parallel and Distributed Systems ([ICPADS 2020](https://icpads2020.comp.polyu.edu.hk/))</i>. Accpeted. <br />
+  CCF-C; CORE-B; QUALIS-B1. [pdf]()</small>
+
 * Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
