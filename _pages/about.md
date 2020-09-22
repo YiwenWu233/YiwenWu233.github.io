@@ -17,6 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 09/20: Our work: *"Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment"* accepted by ICPADS 2020 research track. 
+
 * 09/20: Our work: *"Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub"* accepted by APSEC 2020 research track. 
 
 * 08/20: Yao's work: *"Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow"* accepted by ICSME 2020 research track.
