@@ -17,6 +17,13 @@ author_profile: true
   <i>The 27th Asia-Pacific Software Engineering Conference ([APSEC 2020](https://formal-analysis.com/apsec/2020/))</i>. Accpeted. <br />
   CCF-C; CORE-B. [pdf]()</small>
 
+* Exploring the Dependency Network of Docker Containers: Structure, Diversity, and Relationship [C]. <br />
+  <small>Yinyuan Zhang*, <strong>Yang Zhang*</strong>, Yiwen Wu, Yao Lu, Tao Wang and Xinjun Mao <br />
+  (\*both are first authors and contributed equally to the work)<br />
+  <i>The 12th Asia-Pacific Symposium on Internetware ([Internetware 2020](https://internetware2020.github.io/))</i>. Accpeted. <br />
+  [pdf]()</small>
+
+
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
   <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>. Accpeted.  <br />
