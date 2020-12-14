@@ -23,7 +23,6 @@ author_profile: true
   <i>The 12th Asia-Pacific Symposium on Internetware ([Internetware 2020](https://internetware2020.github.io/))</i>. Accpeted. <br />
   [pdf]()</small>
 
-
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
   <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>. Accpeted.  <br />
@@ -60,6 +59,11 @@ author_profile: true
   <small>Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
         <i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
 	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
+
+* EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
+  <small>Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
+	<i>[Software Guide](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
+	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
 
 ## 2019
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub [C].<br />
