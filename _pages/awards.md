@@ -4,7 +4,7 @@ title: "Awards and Honors"
 author_profile: true
 ---
 
-<strong>Before graduation:</strong>
+<!--<strong>Before graduation:</strong>
 * Awards
 <p>2016 OW2 International Programming Contest, Third Prize</p>
 <p>2014 National Graduate Students' Mathematical Contest in Modeling, Third Prize</p>
@@ -27,5 +27,5 @@ author_profile: true
 <p>2010 Honored as Excellent undergraduate student of College of Computer (NUDT) </p>
 
 
-
+-->
 
