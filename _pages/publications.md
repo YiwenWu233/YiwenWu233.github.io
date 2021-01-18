@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-:triangular_flag_on_post:
+🚩: 
 
 
 ## 2021
