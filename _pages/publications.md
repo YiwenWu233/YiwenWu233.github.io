@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-🚩: 
+🚩: Selected Papers 
 
 
 ## 2021
@@ -88,7 +88,7 @@ author_profile: true
 	<i>[World Wide Web Journal](https://link.springer.com/journal/11280)</i>. Impact factor: 1.770.  <br />
 	CCF-B. [pdf]().</small> 
 
-* GitHub's milestone tool: a mixed-methods analysis on its use [J]. <br />
+* GitHub's milestone tool: a mixed-methods analysis on its use [J]. 🚩<br />
   <small><strong>Yang Zhang</strong>, Huaimin Wang, Yiwen Wu, Dongyang Hu, and Tao Wang<br />
 	<i>[Journal of Software: Evolution and Process](https://onlinelibrary.wiley.com/journal/20477481)</i>. Impact factor: 1.305.  <br />
 	CCF-B. [pdf]().</small> 
@@ -111,7 +111,7 @@ author_profile: true
 
 ## 2018
 
-* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows [C].<br />
+* One Size Does Not Fit All: An Empirical Study of Containerized Continuous Deployment Workflows [C]. 🚩<br />
 	<small><strong>Yang Zhang</strong>, Bogdan Vasilescu, Huaimin Wang and Vladimir Filkov<br />
 	<i>The 26th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering ([ESEC/FSE 2018](https://2018.fseconference.org/))</i>, USA. Full paper.  <br />
 	CCF-A; CORE-A*; QUALIS-A1. [pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/326696302_One_Size_Does_Not_Fit_All_An_Empirical_Study_of_Containerized_Continuous_Deployment_Workflows)</small>
