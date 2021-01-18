@@ -61,6 +61,7 @@ author_profile: true
 	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
 * EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
+  <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
   <small>Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
 	<i>[Software Guide](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
 	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
