@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+:triangular_flag_on_post:
+
 
 ## 2021
 * Big data of open source ecosystem for intelligent software development [J]. <br />
@@ -40,7 +42,7 @@ author_profile: true
   <i>The 13th International Conference on Knowledge Science, Engineering and Management ([KSEM](http://ksem2020.org/))</i>.  <br />
   CCF-C; CORE-B; QUALIS-B3. [pdf]() </small>
 
-* An Empirical Study of Build Failures in the Docker Context [C]. :triangular_flag_on_post: <br />
+* An Empirical Study of Build Failures in the Docker Context [C]. 🚩 <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
   <i>The 17th International Conference on Mining Software Repositories ([MSR](https://2020.msrconf.org/track/msr-2020-papers))</i>.  <br />
