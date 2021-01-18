@@ -8,6 +8,8 @@ author_profile: true
 <strong>Journals:</strong>
 * Information and Software Technology (IST)
 
+* Journal of Software: Evolution and Process (JSME)
+
 * Science China Information Sciences (SCIS)
 
 * The Visual Computer (TVCJ)
