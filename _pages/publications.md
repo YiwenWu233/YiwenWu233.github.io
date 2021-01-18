@@ -6,10 +6,10 @@ author_profile: true
 
 ## 2021
 * Big data of open source ecosystem for intelligent software development [J]. <br />
-  <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
-        Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
-	<i>[Software Guide](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
-	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
+  <small>(面向智能化软件开发的开源生态大数据)<br />
+        <strong>Yang Zhang</strong>, Tao Wang, Gang Yin, Yue Yu, Jinquan Huang<br />
+	<i>[Big Data Research (大数据)](http://www.j-bigdataresearch.com.cn).</i> In Chinese. <br />
+	CCF-C中文. [pdf](). </small>
 
 ## 2020
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
@@ -62,14 +62,15 @@ author_profile: true
 	[pdf](). </small>
 
 * Crowd-intelligence-based software development method and practices [J]. <br />
-  <small>Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
-        <i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
-	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
+  <small>(基于群智的软件开发群体化方法与实践)<br />
+	Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
+        <i>[SCIENCE CHINA Information Sciences (中国科学:信息科学)](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
+	CCF-A中文. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
 * EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
   <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
         Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
-	<i>[Software Guide](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
+	<i>[Software Guide (软件导刊)](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
 	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
 
 ## 2019
@@ -101,9 +102,10 @@ author_profile: true
 	CCF-B. [pdf](https://www.researchgate.net/publication/334451847_A_Novel_Approach_for_Recommending_Semantically_Linkable_Issues_in_GitHub_Projects).</small> 
 
 * An Embedding Model based Hybrid Approach for Linking Related Issues [J]. <br />
-	<small><strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
-	<i>[Journal of Software](http://www.jos.org.cn)</i>. In Chinese. <br />
-	CCF-A. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
+<small>(基于嵌入模型的混合式相关缺陷关联方法)<br />
+	<strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
+	<i>[Journal of Software (软件学报)](http://www.jos.org.cn)</i>. In Chinese. <br />
+	CCF-A中文. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
 
 ## 2018
 
