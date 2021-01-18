@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2021
+* Big data of open source ecosystem for intelligent software development [J]. <br />
+  <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
+        Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
+	<i>[Software Guide](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
+	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
+
 ## 2020
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Bo Ding, Tao Wang and Huaimin Wang <br />
@@ -48,7 +55,6 @@ author_profile: true
   <small>Chenhui Feng, Tao Wang, Jinze Liu, <strong>Yang Zhang</strong>, Kele Xu, and Yijie Wang <br />
   <i>The 14th IEEE International Conference on Service-Oriented System Engineering ([SOSE](http://www.ieeesose.net/))</i>.  <br />
   QUALIS-B2. [pdf]() </small>
-
 
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
