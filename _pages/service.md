@@ -6,6 +6,8 @@ author_profile: true
 
 ## Reviewer or Sub-reviewer
 <strong>Journals:</strong>
+* Empirical Software Engineering (EMSE)
+
 * Information and Software Technology (IST)
 
 * Journal of Software: Evolution and Process (JSME)
