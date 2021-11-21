@@ -9,7 +9,7 @@ author_profile: true
 ## 2021
 * Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow [J]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou,  <strong>Yang Zhang</strong>, Zude Li, Tao Wang, Gang Yin, and Huaimin Wang<br />
-	<i>[IEEE Transactions on Software Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).</i> Impact factor: 6.226.<br />
+	<i>[IEEE Transactions on Software Engineering (TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).</i> Impact factor: 6.226.<br />
 	CCF-A. [Accepted](). </small>
 
 * Big data of open source ecosystem for intelligent software development [J]. <br />
