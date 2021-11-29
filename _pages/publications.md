@@ -11,6 +11,11 @@ author_profile: true
   <small>Yao Lu, Xinjun Mao, Minghui Zhou,  <strong>Yang Zhang</strong>, Zude Li, Tao Wang, Gang Yin, and Huaimin Wang<br />
 	<i>[IEEE Transactions on Software Engineering (TSE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).</i> Impact factor: 6.226.<br />
 	CCF-A. [Accepted](). </small>
+	
+* Let's Supercharge the Workflows: An Empirical Study of GitHub Actions [C]. <br />
+  <small>Tingting Chen, <strong>Yang Zhang</strong>, Shu Chen, Tao Wang and Yiwen Wu <br />
+	<i>[The 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS)-Workshop](https://qrs21.techconf.org/). <br />
+	[Accepted](). </small>
 
 * Big data of open source ecosystem for intelligent software development [J]. <br />
   <small>(面向智能化软件开发的开源生态大数据)<br />
