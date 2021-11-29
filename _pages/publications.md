@@ -14,7 +14,7 @@ author_profile: true
 	
 * Let's Supercharge the Workflows: An Empirical Study of GitHub Actions [C]. <br />
   <small>Tingting Chen, <strong>Yang Zhang(Corresponding author)</strong>, Shu Chen, Tao Wang and Yiwen Wu <br />
-	<i>[The 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS)-Workshop](https://qrs21.techconf.org/). <br />
+	<i>[The 21st IEEE International Conference on Software Quality, Reliability, and Security (QRS)-Workshop](https://qrs21.techconf.org/).</i> <br />
 	[Accepted](). </small>
 
 * Big data of open source ecosystem for intelligent software development [J]. <br />
