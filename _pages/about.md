@@ -17,14 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 12/21: Menghan's work: *On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community* accepted by SANER technical track.
+
 * 11/21: Yao's work: *"Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow"* accepted by TSE Journal.
 
-* 09/20: Our work: *"Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment"* accepted by ICPADS 2020 research track. 
 
-* 09/20: Our work: *"Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub"* accepted by APSEC 2020 research track. 
-
-* 08/20: Yao's work: *"Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow"* accepted by ICSME 2020 research track.
-
-* 03/20: Our work: *"An Empirical Study of Build Failures in the Docker Context"* accepted by MSR 2020 technical track. 
-
-* 02/20: Yiwen's work: *"Exploring the Relationship between Dockerfile Quality and Project Charateristics"* accepted by ICSE 2020 SRC track.
