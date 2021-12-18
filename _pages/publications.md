@@ -9,7 +9,12 @@ author_profile: true
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
-	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
+	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
+	CCF-B. [Accepted](). </small>
+	
+* Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
+  <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
+	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA track ([SANER 2022-ERA](https://saner2022.uom.gr/index)).</i> <br />
 	CCF-B. [Accepted](). </small>
 
 
