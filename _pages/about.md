@@ -17,7 +17,9 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* 12/21: Menghan's work: *"On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community"* accepted by SANER technical track.
+* 12/21: Menghan's work: *"On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community"* accepted by SANER Technical track.
+
+* 12/21: Yinyuan's work: *"Recommending Base Image for Docker Containers based on Deep Configuration Comprehension"* accepted by SANER ERA track.
 
 * 11/21: Yao's work: *"Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow"* accepted by TSE Journal.
 
