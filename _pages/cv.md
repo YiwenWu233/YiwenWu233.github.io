@@ -11,7 +11,7 @@ redirect_from:
 
 <object data="/files/COMPSAC_2018_dockerfile.pdf" type="application/pdf" width="700px" height="1000px">
   <embed src="/files/COMPSAC_2018_dockerfile.pdf">
-  <p>下载PDF<a href="/files/COMPSAC_2018_dockerfile.pdf"></p>
+  <p><a href="/files/COMPSAC_2018_dockerfile.pdf">下载PDF</a></p>
   </embed>
 </object>
 
