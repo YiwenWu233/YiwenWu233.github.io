@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/files/COMPSAC_2018_dockerfile.pdf" type="application/pdf" width="700px" height="1000px">
+
   <embed src="/files/COMPSAC_2018_dockerfile.pdf">
   <p><a href="/files/COMPSAC_2018_dockerfile.pdf">下载PDF</a></p>
-  </embed>
-</object>
 
