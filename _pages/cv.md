@@ -9,4 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+<object data="" type="application/pdf" width="700px" height="1000px">
+  <embed src="">
+  <p>下载PDF<a href=""></p>
+  </embed>
+</object>
 
