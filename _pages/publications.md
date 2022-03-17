@@ -10,24 +10,24 @@ author_profile: true
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B. [Accepted](). </small>
+	CCF-B. <strong>(TCSE Distinguished Paper Award)</strong> [pdf](). </small>
 	
 * Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
   <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA track ([SANER 2022-ERA](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B. [Accepted](). </small>
+	CCF-B. [pdf](). </small>
 
 
 ## 2021
 * Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow [J]. 🚩 <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou,  <strong>Yang Zhang</strong>, Zude Li, Tao Wang, Gang Yin, and Huaimin Wang<br />
 	<i>IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)).</i> Impact factor: 6.226.<br />
-	CCF-A. [Accepted](). </small>
+	CCF-A. [pdf](). </small>
 	
 * Let's Supercharge the Workflows: An Empirical Study of GitHub Actions [C]. <br />
   <small>Tingting Chen, <strong>Yang Zhang(Corresponding author)</strong>, Shu Chen, Tao Wang and Yiwen Wu <br />
 	<i>The 21st IEEE International Conference on Software Quality, Reliability, and Security ([QRS-Workshop](https://qrs21.techconf.org/)).</i> <br />
-	[Accepted](). </small>
+	[pdf](). </small>
 
 * Big data of open source ecosystem for intelligent software development [J]. <br />
   <small>(面向智能化软件开发的开源生态大数据)<br />
