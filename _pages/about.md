@@ -17,7 +17,7 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* 03/22: Our SANER paper receive the IEEE Computer Society TCSE Distinguished Paper Award.
+* 03/22: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
 
 * 12/21: Menghan's work: *"On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community"* accepted by SANER Technical track.
 
