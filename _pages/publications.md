@@ -10,7 +10,7 @@ author_profile: true
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B. <strong>(TCSE Distinguished Paper Award)</strong> [pdf](). </small>
+	CCF-B. <strong>(Distinguished Paper Award)</strong> [pdf](). </small>
 	
 * Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
   <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
