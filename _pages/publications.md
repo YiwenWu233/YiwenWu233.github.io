@@ -17,7 +17,7 @@ author_profile: true
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA track ([SANER 2022-ERA](https://saner2022.uom.gr/index)).</i> <br />
 	CCF-B. [pdf](). </small>
 
-* Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
+* A Preliminary Study of Bots Usage in Open Source Community [C]. <br />
   <small>Xinjun Wu, Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang <br />
 	<i>The 13th Asia-Pacific Symposium on Internetware ([Internetware 2022](https://internetware2022.github.io/#home)).</i> <br />
 	Accepted. [pdf](). </small>
