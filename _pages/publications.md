@@ -9,19 +9,19 @@ author_profile: true
 * Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects [C]. 🚩 <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Kele Xu, Tao Wang and Huaimin Wang <br />
 	<i>The 37th IEEE/ACM International Conference on Automated Software Engineering, Technical track ([ASE 2022](https://conf.researchr.org/home/ase-2022)).</i> <br />
-	CCF-A. Accepted. </small>
+	CCF-A; CORE-A*. Accepted. </small>
 
 
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B. <strong><font color="#FF0000">Distinguished Paper Award</font></strong> [pdf](). </small>
+	CCF-B; CORE-A. <strong><font color="#FF0000">Distinguished Paper Award</font></strong> [pdf](). </small>
 	
 * Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
   <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA track ([SANER 2022-ERA](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B. [pdf](). </small>
+	CCF-B; CORE-A*. [pdf](). </small>
 
 * A Preliminary Study of Bots Usage in Open Source Community [C]. <br />
   <small>Xinjun Wu, Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang <br />
@@ -32,7 +32,7 @@ author_profile: true
 * Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow [J]. 🚩 <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou,  <strong>Yang Zhang</strong>, Zude Li, Tao Wang, Gang Yin, and Huaimin Wang<br />
 	<i>IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)).</i> Impact factor: 6.226.<br />
-	CCF-A. [pdf](). </small>
+	CCF-A; CORE-A*. [pdf](). </small>
 	
 * Let's Supercharge the Workflows: An Empirical Study of GitHub Actions [C]. <br />
   <small>Tingting Chen, <strong>Yang Zhang(Corresponding author)</strong>, Shu Chen, Tao Wang and Yiwen Wu <br />
