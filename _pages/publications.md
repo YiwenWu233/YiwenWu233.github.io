@@ -6,6 +6,12 @@ author_profile: true
 🚩: Selected Papers 
 
 ## 2022
+* Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects [C]. 🚩 <br />
+  <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Kele Xu, Tao Wang and Huaimin Wang <br />
+	<i>The 37th IEEE/ACM International Conference on Automated Software Engineering, Technical track ([ASE 2022](https://conf.researchr.org/home/ase-2022)).</i> <br />
+	CCF-A. Accepted. </small>
+
+
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
