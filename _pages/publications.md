@@ -21,7 +21,7 @@ author_profile: true
 * Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
   <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, ERA track ([SANER 2022-ERA](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B; CORE-A*. [pdf](). </small>
+	CCF-B; CORE-A. [pdf](). </small>
 
 * A Preliminary Study of Bots Usage in Open Source Community [C]. <br />
   <small>Xinjun Wu, Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang <br />
