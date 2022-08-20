@@ -11,6 +11,11 @@ author_profile: true
 	<i>The 37th IEEE/ACM International Conference on Automated Software Engineering, Technical track ([ASE 2022](https://conf.researchr.org/home/ase-2022)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
+* Exploring the Development of Container Technology through Docker Containers: A Systematic Literature Review Perspective [J]. <br />
+    <small>(从Docker容器看容器技术的发展:一种系统文献综述的视角)<br />
+	Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
+	<i>[Journal of Software (软件学报)](http://www.jos.org.cn)</i>. In Chinese. <br />
+	CCF-A. Accepted. </small>
 
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
@@ -43,7 +48,7 @@ author_profile: true
   <small>(面向智能化软件开发的开源生态大数据)<br />
         <strong>Yang Zhang</strong>, Tao Wang, Gang Yin, Yue Yu, Jinquan Huang<br />
 	<i>Big Data Research ([大数据](http://www.j-bigdataresearch.com.cn)).</i> In Chinese. <br />
-	CCF-C中文. [pdf](). </small>
+	CCF-C. [pdf](). </small>
 
 ## 2020
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
@@ -99,7 +104,7 @@ author_profile: true
   <small>(基于群智的软件开发群体化方法与实践)<br />
 	Tao Wang, Gang Yin, Yue Yu, <strong>Yang Zhang</strong>, and Huaimin Wang<br />
         <i>[SCIENCE CHINA Information Sciences (中国科学:信息科学)](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
-	CCF-A中文. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
+	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
 * EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
   <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
@@ -139,7 +144,7 @@ author_profile: true
 <small>(基于嵌入模型的混合式相关缺陷关联方法)<br />
 	<strong>Yang Zhang</strong>, Tao Wang, Yiwen Wu, Gang Yin, Huaimin Wang<br />
 	<i>[Journal of Software (软件学报)](http://www.jos.org.cn)</i>. In Chinese. <br />
-	CCF-A中文. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
+	CCF-A. [pdf](https://www.researchgate.net/publication/333682252_jiyuqianrumoxingdehunheshixiangguanquexianguanlianfangfa)</small>
 
 ## 2018
 
