@@ -17,6 +17,11 @@ author_profile: true
 	<i>[Journal of Software (软件学报)](http://www.jos.org.cn)</i>. In Chinese. <br />
 	CCF-A. Accepted. </small>
 
+* How Does Bot Affect Developer's Sentiment: An Empirical Study on GitHub Issues and PRs [C]. <br />
+    <small>Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, Sihao Chen, and Jinsheng Deng<br />
+	<i>The 19th IEEE International Conference on Ubiquitous Intelligence and Computing ([UIC 2022](http://www.ieee-smart-world.org/2022/uic/))</i> <br />
+	CCF-C. Accepted. </small>
+
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
