@@ -26,7 +26,7 @@ author_profile: true
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
 	 (\*both are first authors and contributed equally to the work)<br />
 	<i>The 29th IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2022](https://saner2022.uom.gr/index)).</i> <br />
-	CCF-B; CORE-A. <strong><font color="#FF0000">Distinguished Paper Award</font></strong> [pdf](). </small>
+	CCF-B; CORE-A. <strong><font style="color:red">Distinguished Paper Award</font></strong> [pdf](). </small>
 	
 * Recommending Base Image for Docker Containers based on Deep Configuration Comprehension [C]. <br />
   <small>Yinyuan Zhang, <strong>Yang Zhang(Corresponding author)</strong>, Xinjun Mao, Yiwen Wu, Bo Lin and Shangwen Wang <br />
@@ -103,7 +103,7 @@ author_profile: true
 * Characterizing the Occurrence of Dockerfile Smells in Open-Source Software: An Empirical Study [J]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
 	<i>[IEEE Access](https://ieeeaccess.ieee.org/)</i>. Impact factor: 4.098. <br />
-	[pdf](). </small>
+	[pdf](https://ieeexplore.ieee.org/iel7/6287639/8948470/08998208.pdf). </small>
 
 * Crowd-intelligence-based software development method and practices [J]. <br />
   <small>(基于群智的软件开发群体化方法与实践)<br />
