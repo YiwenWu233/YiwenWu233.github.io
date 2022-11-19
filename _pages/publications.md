@@ -37,6 +37,11 @@ author_profile: true
   <small>Xinjun Wu, Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang <br />
 	<i>The 13th Asia-Pacific Symposium on Internetware ([Internetware 2022](https://internetware2022.github.io/#home)).</i> <br />
 	Accepted. [pdf](). </small>
+	
+* Optimizing Data Locality by Executor Allocation in Reduce Stage for Spark Framework [C]. <br />
+  <small>Zhongming Fu, Mengsi He, Zhuo Tang,  <strong>Yang Zhang</strong> <br />
+	<i>The 22nd International Conference on Parallel and Distributed Computing: Applications and Technologies ([PDCAT](https://cse.sysu.edu.cn/pdcat2021/)).</i><br />
+	[pdf](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_32).</small>
 
 ## 2021
 * Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow [J]. 🚩 <br />
