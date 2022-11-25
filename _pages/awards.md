@@ -4,11 +4,11 @@ title: "Awards"
 author_profile: true
 ---
 
-### 2022 CCF Young Talent Development Program
+### 2022 CCF Young Talent Development Program（CCF青年人才发展计划）
 
 ### 2022 IEEE TCSE Distinguished Paper Award (SANER)
 
-### 2021 Hunan Province Excellent Doctoral Thesis Award
+### 2021 Hunan Province Excellent Doctoral Thesis Award（湖南省优秀博士论文）
 
 <!--<strong>Before graduation:</strong>
 * Awards
