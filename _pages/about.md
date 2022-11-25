@@ -17,6 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 11/22: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
+
 * 07/22: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE Technical track.
 
 * 03/22: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
