@@ -30,3 +30,12 @@ I like movie, music, and photography.
 * 11/21: Yao's work: *"Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow"* accepted by TSE Journal.
 
 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?e739f57d9d41113551f213e1bc8ee21c";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
