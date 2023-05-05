@@ -55,10 +55,10 @@ author_profile: true
 	<i>Big Data Research ([大数据](http://www.j-bigdataresearch.com.cn)).</i> In Chinese. <br />
 	CCF-C. [pdf](). </small>
 
-* Optimizing Data Locality by Executor Allocation in Reduce Stage for Spark Framework [C]. <br />
+<!--* Optimizing Data Locality by Executor Allocation in Reduce Stage for Spark Framework [C]. <br />
   <small>Zhongming Fu, Mengsi He, Zhuo Tang,  <strong>Yang Zhang</strong> <br />
 	<i>The 22nd International Conference on Parallel and Distributed Computing: Applications and Technologies ([PDCAT 2021](https://cse.sysu.edu.cn/pdcat2021/)).</i><br />
-	[pdf](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_32).</small>
+	[pdf](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_32).</small>-->
 
 ## 2020
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
@@ -116,11 +116,11 @@ author_profile: true
         <i>[SCIENCE CHINA Information Sciences (中国科学:信息科学)](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
 	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
-* EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
+<!--* EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
   <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
         Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
 	<i>[Software Guide (软件导刊)](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
-	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>
+	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>-->
 
 ## 2019
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub [C].<br />
@@ -191,15 +191,15 @@ author_profile: true
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. Poster. <br />
 	CCF-C; CORE-B. [pdf](https://www.researchgate.net/publication/333341249_Recommending_Similar_Bug_Reports_A_Novel_Approach_Using_Document_Embedding_Model)</small>
 
-* Using Document Embedding Techniques for Similar Bug Reports Recommendation [C].<br />
+<!--* Using Document Embedding Techniques for Similar Bug Reports Recommendation [C].<br />
 	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
 	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html))</i>, Beijing, China.<br />
-	[pdf](https://www.researchgate.net/publication/330439151_Using_Document_Embedding_Techniques_for_Similar_Bug_Reports_Recommendation)</small>
+	[pdf](https://www.researchgate.net/publication/330439151_Using_Document_Embedding_Techniques_for_Similar_Bug_Reports_Recommendation)</small>-->
 
-* Bugs and features, do developers treat them differently? [C]<br />
+<!--* Bugs and features, do developers treat them differently? [C]<br />
 	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
 	<i>The International Conference on Artificial Intelligence and Big Data ([ICAIBD 2018](https://ieeexplore.ieee.org/abstract/document/8396204/))</i>. Short paper. <br />
-	[pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>
+	[pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>-->
 	
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories [J]. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
@@ -234,17 +234,17 @@ author_profile: true
 	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. Full paper. <br />
 	CCF-C. [pdf](/files/Internetware_2016_li.pdf)</small>
 
-* Octopus: A Data Acquisition System for Open Source Communities [C].<br />
+<!--* Octopus: A Data Acquisition System for Open Source Communities [C].<br />
 	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
 	<i>The International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. Full paper. <br />
-	[pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>
+	[pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>-->
 
 ## 2015
 
 * Exploring the Use of @-mention to Assist Software Development in GitHub [C].<br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
 	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. Full paper. (Nominated for best paper, Recommended to the SCIENCE CHINA Information Sciences). <br />
-	[pdf](/files/Internetware_2015_at.pdf)</small>
+	CCF-C. [pdf](/files/Internetware_2015_at.pdf)</small>
 
 * Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study [C].<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
