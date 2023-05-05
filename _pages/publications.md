@@ -36,7 +36,7 @@ author_profile: true
 * A Preliminary Study of Bots Usage in Open Source Community [C]. <br />
   <small>Xinjun Wu, Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang <br />
 	<i>The 13th Asia-Pacific Symposium on Internetware ([Internetware 2022](https://internetware2022.github.io/#home)).</i> <br />
-	Accepted. [pdf](). </small>
+	CCF-C. [pdf](). </small>
 	
 ## 2021
 * Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow [J]. 🚩 <br />
@@ -47,7 +47,7 @@ author_profile: true
 * Let's Supercharge the Workflows: An Empirical Study of GitHub Actions [C]. <br />
   <small>Tingting Chen, <strong>Yang Zhang(Corresponding author)</strong>, Shu Chen, Tao Wang and Yiwen Wu <br />
 	<i>The 21st IEEE International Conference on Software Quality, Reliability, and Security ([QRS-Workshop](https://qrs21.techconf.org/)).</i> <br />
-	[pdf](). </small>
+	CCF-C. [pdf](). </small>
 
 * Big data of open source ecosystem for intelligent software development [J]. <br />
   <small>(面向智能化软件开发的开源生态大数据)<br />
@@ -77,7 +77,7 @@ author_profile: true
   <small>Yinyuan Zhang*, <strong>Yang Zhang*</strong>, Yiwen Wu, Yao Lu, Tao Wang and Xinjun Mao <br />
   (\*both are first authors and contributed equally to the work)<br />
   <i>The 12th Asia-Pacific Symposium on Internetware ([Internetware 2020](https://internetware2020.github.io/))</i>. Accpeted. <br />
-  [pdf]()</small>
+  CCF-C. [pdf]()</small>
 
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
@@ -127,7 +127,7 @@ author_profile: true
 	<small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
 	<i>The 11th Asia-Pacific Symposium on Internetware ([Internetware 2019](https://internetware2019.github.io))</i>, Fukuoka, Japan. Full paper. 
 	<br />
-	[pdf](https://www.researchgate.net/publication/335827345_Exploring_the_Relationship_Between_Developer_Activities_and_Profile_Images_on_GitHub)
+	CCF-C. [pdf](https://www.researchgate.net/publication/335827345_Exploring_the_Relationship_Between_Developer_Activities_and_Profile_Images_on_GitHub)
 	</small>
 
 * iLinker: A Novel Approach for Issue Knowledge Acquisition in GitHub Projects [J]. <br />
@@ -148,7 +148,7 @@ author_profile: true
 * A Novel Approach for Recommending Semantically Linkable Issues in GitHub Projects [J]. <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tao Wang, Huaimin Wang<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>. Impact factor: 2.731. <br /> 
-	CCF-B. [pdf](https://www.researchgate.net/publication/334451847_A_Novel_Approach_for_Recommending_Semantically_Linkable_Issues_in_GitHub_Projects).</small> 
+	CCF-A. [pdf](https://www.researchgate.net/publication/334451847_A_Novel_Approach_for_Recommending_Semantically_Linkable_Issues_in_GitHub_Projects).</small> 
 
 * An Embedding Model based Hybrid Approach for Linking Related Issues [J]. <br />
 <small>(基于嵌入模型的混合式相关缺陷关联方法)<br />
@@ -173,7 +173,7 @@ author_profile: true
 	<small>Tao Wang, <strong>Yang Zhang</strong>, Gang Yin, Yue Yu, and Huaimin Wang <br />
 	<i>The 10th Asia-Pacific Symposium on Internetware ([Internetware 2018](https://internetware2018.github.io))</i>, Bei Jing, China. Full paper. 
 	<br />
-	[pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/327642306_Who_Will_Become_a_Long-Term_Contributor_A_Prediction_Model_based_on_the_Early_Phase_Behaviors/links/5bc28e93458515a7a9e72d90/Who-Will-Become-a-Long-Term-Contributor-A-Prediction-Model-based-on-the-Early-Phase-Behaviors.pdf)
+	CCF-C. [pdf](https://www.researchgate.net/profile/Yang_Zhang178/publication/327642306_Who_Will_Become_a_Long-Term_Contributor_A_Prediction_Model_based_on_the_Early_Phase_Behaviors/links/5bc28e93458515a7a9e72d90/Who-Will-Become-a-Long-Term-Contributor-A-Prediction-Model-based-on-the-Early-Phase-Behaviors.pdf)
 	</small>
 
 * An Insight Into the Impact of Dockerfile Evolutionary Trajectories on Quality and Latency [C].<br />
@@ -204,7 +204,7 @@ author_profile: true
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories [J]. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>. Impact factor: 2.731.  <br />
-	CCF-B. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
+	CCF-A. [pdf](/files/SCIS_2018_dockerfile.pdf)</small>
 
 * Correlation-based software search by leveraging software term database [J]. <br />
 	<small>Zhixing Li, Gang Yin, Tao Wang, <strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang<br />
@@ -220,7 +220,7 @@ author_profile: true
 * Social media in GitHub: the role of @-mention in assisting software development [J]. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Gang Yin, Tao Wang, Yue Yu<br />
 	<i>[SCIENCE CHINA Information Sciences](http://engine.scichina.com/publisher/scp/journal/SCIS?slug=Overview)</i>. Impact factor: 2.731. <br />
-	CCF-B. [pdf](/files/SCIS_2017_at.pdf)</small>
+	CCF-A. [pdf](/files/SCIS_2017_at.pdf)</small>
 
 
 ## 2016
@@ -232,7 +232,7 @@ author_profile: true
 * Query Reformulation by Leveraging Crowd Wisdom for Scenario-based Software Search [C].<br />
 	<small>Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin<br />
 	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. Full paper. <br />
-	[pdf](/files/Internetware_2016_li.pdf)</small>
+	CCF-C. [pdf](/files/Internetware_2016_li.pdf)</small>
 
 * Octopus: A Data Acquisition System for Open Source Communities [C].<br />
 	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
@@ -249,7 +249,7 @@ author_profile: true
 * Evaluating Bug Severity Using Crowd-based Knowledge: An Exploratory Study [C].<br />
 	<small><strong>Yang Zhang</strong>, Gang Yin, Tao Wang, Yue Yu, Huaimin Wang<br />
 	<i>The 7th Asia-Pacific Symposium on Internetware ([Internetware 2015](https://dblp.uni-trier.de/db/conf/internetware/internetware2015))</i>, Wu Han, China. Short paper. <br />
-	[pdf](/files/Internetware_2015_bug.pdf)</small>
+	CCF-C. [pdf](/files/Internetware_2015_bug.pdf)</small>
 
 * OSSEAN: Mining Crowd Wisdom in Open Source Communities [C].<br />
 	<small>Gang Yin, Tao Wang, Huaimin Wang, Qiang Fan, <strong>Yang Zhang</strong>, Yue Yu, Cheng Yang<br />
