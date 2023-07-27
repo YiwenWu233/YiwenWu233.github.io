@@ -4,6 +4,8 @@ title: "Awards"
 author_profile: true
 ---
 
+### 2023 Young Innovative Talent in Hunan Province (湖南省湖湘青年英才)
+
 ### 2022 CCF Young Talent Development Program（CCF青年人才发展计划）
 
 ### 2022 IEEE TCSE Distinguished Paper Award (SANER)
