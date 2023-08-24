@@ -17,17 +17,13 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 08/23: Our work: *How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community* accepted by ICSE24 Technical track.
+
 * 11/22: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
 
-* 07/22: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE Technical track.
+* 07/22: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE22 Technical track.
 
 * 03/22: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
-
-* 12/21: Menghan's work: *"On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community"* accepted by SANER Technical track.
-
-* 12/21: Yinyuan's work: *"Recommending Base Image for Docker Containers based on Deep Configuration Comprehension"* accepted by SANER ERA track.
-
-* 11/21: Yao's work: *"Motivation under Gamification: An Empirical Study of Developers' Motivations and Contributions in Stack Overflow"* accepted by TSE Journal.
 
 
 
