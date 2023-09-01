@@ -7,7 +7,7 @@ author_profile: true
 
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. <br />
-  <small><strong>Yang Zhang</strong>*, Yiwen Wu*, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
+  <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
 	<i>The 46th International Conference on Software Engineering, Technical track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
