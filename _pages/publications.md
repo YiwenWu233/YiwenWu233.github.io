@@ -5,6 +5,17 @@ author_profile: true
 ---
 🚩: Selected Papers 
 
+## 2024
+* How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. <br />
+  <small><strong>Yang Zhang*</strong>, Yiwen Wu*, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
+	<i>The 46th International Conference on Software Engineering, Technical track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
+	CCF-A; CORE-A*. Accepted. </small>
+## 2023
+* Detecting Bot on GitHub Leveraging Transformer-based Models [C]. <br />
+  <small>Jin Zhang, Xingjin Wu, <strong>Yang Zhang(Corresponding author)</strong>, and Shunyu Xu <br />
+	<i>The 30th Asia-Pacific Software Engineering Conference, Poster ([APSEC 2023](https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track)).</i> <br />
+	CCF-C; CORE-B. Accepted. </small>
+
 ## 2022
 * Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects [C]. 🚩 <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Kele Xu, Tao Wang and Huaimin Wang <br />
@@ -64,13 +75,13 @@ author_profile: true
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Bo Ding, Tao Wang and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
-  <i>The 26th IEEE International Conference on Parallel and Distributed Systems ([ICPADS 2020](https://icpads2020.comp.polyu.edu.hk/))</i>. Accpeted. <br />
+  <i>The 26th IEEE International Conference on Parallel and Distributed Systems ([ICPADS 2020](https://icpads2020.comp.polyu.edu.hk/))</i>. <br />
   CCF-C; CORE-B; QUALIS-B1. [pdf]()</small>
 
 * Dockerfile Changes in Practice: A Large-Scale Empirical Study of 4,110 Projects on GitHub [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang and Huaimin Wang <br />
   (\*both are first authors and contributed equally to the work)<br />
-  <i>The 27th Asia-Pacific Software Engineering Conference ([APSEC 2020](https://formal-analysis.com/apsec/2020/))</i>. Accpeted. <br />
+  <i>The 27th Asia-Pacific Software Engineering Conference ([APSEC 2020](https://formal-analysis.com/apsec/2020/))</i>.  <br />
   CCF-C; CORE-B. [pdf]()</small>
 
 * Exploring the Dependency Network of Docker Containers: Structure, Diversity, and Relationship [C]. <br />
@@ -81,7 +92,7 @@ author_profile: true
 
 * Haste Makes Waste: An Empirical Study of Fast Answers in Stack Overflow [C]. <br />
   <small>Yao Lu, Xinjun Mao, Minghui Zhou, <strong>Yang Zhang</strong>, Tao Wang, and Zude Li <br />
-  <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>. Accpeted.  <br />
+  <i>The 36th International Conference on Software Maintenance and Evolution ([ICSME](https://icsme2020.github.io/))</i>.  <br />
   CCF-B; CORE-A; QUALIS-A2. [pdf]() </small>
   
 * Improving Deep Item-Based Collaborative Filtering with Bayesian Personalized Ranking for MOOC Course Recommendation [C]. <br />
