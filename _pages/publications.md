@@ -12,6 +12,11 @@ author_profile: true
 	CCF-A; CORE-A*. Accepted. </small>
 
 ## 2023
+* TLDBERT: Leveraging Further Pre-trained Model for Issue Typed Links Detection [C]. <br />
+  <small>Huaian Zhou, Tao Wang, <strong>Yang Zhang</strong>, Yang Shen <br />
+	<i>The 30th Asia-Pacific Software Engineering Conference, ERA-track ([APSEC 2023](https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track)).</i> <br />
+	CCF-C; CORE-B. Accepted. </small>
+ 
 * Detecting Bot on GitHub Leveraging Transformer-based Models [C]. <br />
   <small>Jin Zhang, Xingjin Wu, <strong>Yang Zhang(Corresponding author)</strong>, and Shunyu Xu <br />
 	<i>The 30th Asia-Pacific Software Engineering Conference, Poster ([APSEC 2023](https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track)).</i> <br />
