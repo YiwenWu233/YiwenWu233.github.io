@@ -11,6 +11,12 @@ author_profile: true
 	<i>The 46th International Conference on Software Engineering, Technical track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
+* A Transformer-based Model for Assisting Dockerfile Revising [C]. <br />
+  <small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
+	<i>The 46th International Conference on Software Engineering, Poster track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
+	CCF-A; CORE-A*. Accepted. </small>
+
+
 ## 2023
 * TLDBERT: Leveraging Further Pre-trained Model for Issue Typed Links Detection [C]. <br />
   <small>Huaian Zhou, Tao Wang, <strong>Yang Zhang</strong>, Yang Shen <br />
