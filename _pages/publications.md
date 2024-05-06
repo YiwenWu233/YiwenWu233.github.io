@@ -6,6 +6,21 @@ author_profile: true
 🚩: Selected Papers 
 
 ## 2024
+* Enhancing Collaborative Software Development: A Deep Learning Approach for Bot Recommendation [C]. <br />
+  <small>Jin Zhang, Xingjin Wu, <strong>Yang Zhang (Corresponding author)</strong>, Shunyu Xu, and Maoqi Peng <br />
+  <i>The IEEE 48nd Annual Computer Software and Applications Conference ([COMPSAC 2024](https://ieeecompsac.computer.org/2024/))</i>, Japan. Full paper.  <br />
+	CCF-C; CORE-B; QUALIS-A2. [pdf]()</small>
+
+* Empirical Study on GitHub Issue Report Templates [C]. <br />
+  <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
+  <i>The IEEE 48nd Annual Computer Software and Applications Conference ([COMPSAC 2024](https://ieeecompsac.computer.org/2024/))</i>, Japan. Short paper.  <br />
+	CCF-C; CORE-B; QUALIS-A2. [pdf]()</small>
+
+* How do Developers Adapt Code Snippets to Their Contexts? An Empirical Study of Context-Based Code Snippet Adaptations [J]. <br />
+  <small>Tanghaoran Zhang, Yao Lu, Yue Yu, Xinjun Mao, <strong>Yang Zhang</strong>, and Yuxin Zhao <br />
+  <i>IEEE Transactions on Software Engineering ([TSE]([https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32](https://ieeexplore.ieee.org/document/10510659))).</i> Impact factor: 7.4.<br />
+	CCF-A; CORE-A*. [pdf](). </small>
+
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
 	<i>The 46th International Conference on Software Engineering, Technical track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
