@@ -17,13 +17,19 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* 08/23: Our work: *How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community* accepted by ICSE24 Technical track.
+* 2024-04: One paper is accepted by TSE journal.
 
-* 11/22: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
+* 2024-04: Two papers are accepted by COMPSAC24 Technical track. 
 
-* 07/22: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE22 Technical track.
+* 2024-01: Our work: *A Transformer-based Model for Assisting Dockerfile Revising* accepted by ICSE24 Poster track.
 
-* 03/22: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
+* 2023-08: Our work: *How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community* accepted by ICSE24 Technical track.
+
+* 2022-11: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
+
+* 2022-07: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE22 Technical track.
+
+* 2022-03: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
 
 
 
