@@ -3,10 +3,11 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+### 2023 CIE Science and Technology Progress Award (First Prize) (中国电子学会CIE科技进步一等奖)
 
 ### 2023 Young Innovative Talent in Hunan Province (湖南省湖湘青年英才)
 
-### 2022 CCF Young Talent Development Program（CCF青年人才发展计划）
+### 2022 CCF Young Talent Development Program（中国计算机学会CCF青年人才发展计划）
 
 ### 2022 IEEE TCSE Distinguished Paper Award (SANER)
 
