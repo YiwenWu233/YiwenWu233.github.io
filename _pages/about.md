@@ -17,7 +17,7 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
-* 2024-09: I will serve as a Junior PC Member for the Mining Software Repositories 2025 (MSR 2025)!
+* 2024-09: Selected as a Junior PC Member at MSR 2025!
   
 * 2024-04: One paper is accepted by TSE journal.
 
