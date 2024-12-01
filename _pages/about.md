@@ -17,6 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 2024-12: Our work: *An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports* accepted by SANER2025 Technical track.
+
 * 2024-09: Selected as a Junior PC Member at MSR 2025!
   
 * 2024-04: One paper is accepted by TSE journal.
