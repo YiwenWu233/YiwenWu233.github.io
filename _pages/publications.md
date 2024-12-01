@@ -5,6 +5,12 @@ author_profile: true
 ---
 🚩: Selected Papers 
 
+## 2025
+* An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports [C]. <br />
+  <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
+	<i>The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2025](https://conf.researchr.org/home/saner-2025)).</i> <br />
+	CCF-B; CORE-A. Accepted. </small>
+
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
