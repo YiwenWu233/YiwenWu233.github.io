@@ -6,7 +6,7 @@ author_profile: true
 
 ## Reviewer or Sub-reviewer
 <strong>Journals:</strong>
-* Empirical Software Engineering (EMSE)
+* Empirical Software Engineering (ESE)
 
 * Information and Software Technology (IST)
 
@@ -21,6 +21,8 @@ author_profile: true
 * Journal of Software (软件学报)
 
 <strong>Conferences:</strong>
+* MSR 2025
+  
 * CSCW 2025
 
 * Internetware 2015
