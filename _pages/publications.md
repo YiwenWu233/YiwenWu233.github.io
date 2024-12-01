@@ -42,6 +42,11 @@ author_profile: true
   <i>The 31st Asia-Pacific Software Engineering Conference, ERA-track ([APSEC 2024](https://conf.researchr.org/home/apsec-2024))</i>, China. Short paper.  <br />
 	CCF-C; CORE-B. Accepted. </small>
 
+  * Understanding the Challenges of Data Management in the AI Application Development [C]. <br />
+  <small>Junchen Li, <strong>Yang Zhang (Corresponding author)</strong>, Kele Xu, Tao Wang, Huaimin Wang<br />
+  <i>The 15th IEEE International Conference on Joint-Cloud Computing, Technical track ([JCC 2024](https://www.jointcloud.cloud/JCC2024/Home))</i>, China. Full paper.  <br />
+	CCF-C; CORE-B. Accepted. </small>
+
 
 ## 2023
 * TLDBERT: Leveraging Further Pre-trained Model for Issue Typed Links Detection [C]. <br />
