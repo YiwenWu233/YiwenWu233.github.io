@@ -6,6 +6,12 @@ author_profile: true
 🚩: Selected Papers 
 
 ## 2025
+* Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns [C]. 🚩<br />
+  <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Tao Wang, Bo Ding, Huaimin Wang <br />
+  (\*both are first authors and contributed equally to the work)<br />
+	<i>The 33rd ACM International Conference on the Foundations of Software Engineering, Technical track ([FSE 2025](https://conf.researchr.org/home/fse-2025)).</i> <br />
+	CCF-A; CORE-A*. Accepted. </small>
+
 * An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports [C]. <br />
   <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2025](https://conf.researchr.org/home/saner-2025)).</i> <br />
