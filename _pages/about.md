@@ -17,21 +17,23 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 2025-01: Our work: *Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns* accepted by FSE2025 Technical track.
+
 * 2024-12: Our work: *An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports* accepted by SANER2025 Technical track.
 
 * 2024-09: Selected as a Junior PC Member at MSR 2025!
   
 * 2024-04: One paper is accepted by TSE journal.
 
-* 2024-04: Two papers are accepted by COMPSAC24 Technical track. 
+* 2024-04: Two papers are accepted by COMPSAC2024 Technical track. 
 
-* 2024-01: Our work: *A Transformer-based Model for Assisting Dockerfile Revising* accepted by ICSE24 Poster track.
+* 2024-01: Our work: *A Transformer-based Model for Assisting Dockerfile Revising* accepted by ICSE2024 Poster track.
 
-* 2023-08: Our work: *How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community* accepted by ICSE24 Technical track.
+* 2023-08: Our work: *How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community* accepted by ICSE2024 Technical track.
 
 * 2022-11: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
 
-* 2022-07: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE22 Technical track.
+* 2022-07: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE2022 Technical track.
 
 * 2022-03: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
 
