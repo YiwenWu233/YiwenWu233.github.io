@@ -21,12 +21,12 @@ author_profile: true
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
 	<i>The 46th International Conference on Software Engineering, Technical track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
-	CCF-A; CORE-A*. Accepted. </small>
+	CCF-A; CORE-A*. </small>
 
 * A Transformer-based Model for Assisting Dockerfile Revising [C]. <br />
   <small>Yiwen Wu, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, and Huaimin Wang <br />
 	<i>The 46th International Conference on Software Engineering, Poster track ([ICSE 2024](https://conf.researchr.org/home/icse-2024)).</i> <br />
-	CCF-A; CORE-A*. Accepted. </small>
+	CCF-A; CORE-A*.  </small>
  
 * How do Developers Adapt Code Snippets to Their Contexts? An Empirical Study of Context-Based Code Snippet Adaptations [J]. <br />
   <small>Tanghaoran Zhang, Yao Lu, Yue Yu, Xinjun Mao, <strong>Yang Zhang</strong>, and Yuxin Zhao <br />
@@ -46,41 +46,41 @@ author_profile: true
  * GHA-BFP: Framework for Automated Build Failure Prediction in GitHub Actions [C]. <br />
   <small>Jiatai Li, <strong>Yang Zhang (Corresponding author)</strong>, Tao Wang, Yiwen Wu <br />
   <i>The 31st Asia-Pacific Software Engineering Conference, ERA-track ([APSEC 2024](https://conf.researchr.org/home/apsec-2024))</i>, China. Short paper.  <br />
-	CCF-C; CORE-B. Accepted. </small>
+	CCF-C; CORE-B.  </small>
 
   * Understanding the Challenges of Data Management in the AI Application Development [C]. <br />
   <small>Junchen Li, <strong>Yang Zhang (Corresponding author)</strong>, Kele Xu, Tao Wang, Huaimin Wang<br />
   <i>The 15th IEEE International Conference on Joint-Cloud Computing, Technical track ([JCC 2024](https://www.jointcloud.cloud/JCC2024/Home))</i>, China. Full paper.  <br />
-	CCF-C; CORE-B. Accepted. </small>
+	CCF-C; CORE-B.  </small>
 
 
 ## 2023
 * TLDBERT: Leveraging Further Pre-trained Model for Issue Typed Links Detection [C]. <br />
   <small>Huaian Zhou, Tao Wang, <strong>Yang Zhang</strong>, Yang Shen <br />
 	<i>The 30th Asia-Pacific Software Engineering Conference, ERA-track ([APSEC 2023](https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track)).</i> <br />
-	CCF-C; CORE-B. Accepted. </small>
+	CCF-C; CORE-B.  </small>
  
 * Detecting Bot on GitHub Leveraging Transformer-based Models [C]. <br />
   <small>Jin Zhang, Xingjin Wu, <strong>Yang Zhang(Corresponding author)</strong>, and Shunyu Xu <br />
 	<i>The 30th Asia-Pacific Software Engineering Conference, Poster ([APSEC 2023](https://conf.researchr.org/track/apsec-2023/apsec-2023-technical-track)).</i> <br />
-	CCF-C; CORE-B. Accepted. </small>
+	CCF-C; CORE-B. </small>
 
 ## 2022
 * Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects [C]. 🚩 <br />
   <small>Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Kele Xu, Tao Wang and Huaimin Wang <br />
 	<i>The 37th IEEE/ACM International Conference on Automated Software Engineering, Technical track ([ASE 2022](https://conf.researchr.org/home/ase-2022)).</i> <br />
-	CCF-A; CORE-A*. Accepted. </small>
+	CCF-A; CORE-A*.  </small>
 
 * Exploring the Development of Container Technology through Docker Containers: A Systematic Literature Review Perspective [J]. <br />
     <small>(从Docker容器看容器技术的发展:一种系统文献综述的视角)<br />
 	Yiwen Wu, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, and Huaimin Wang<br />
 	<i>[Journal of Software (软件学报)](http://www.jos.org.cn)</i>. In Chinese. <br />
-	CCF-A. Accepted. </small>
+	CCF-A.  </small>
 
 * How Does Bot Affect Developer's Sentiment: An Empirical Study on GitHub Issues and PRs [C]. <br />
     <small>Anze Gao, <strong>Yang Zhang(Corresponding author)</strong>, Tao Wang, Sihao Chen, and Jinsheng Deng<br />
 	<i>The 19th IEEE International Conference on Ubiquitous Intelligence and Computing ([UIC 2022](http://www.ieee-smart-world.org/2022/uic/))</i> <br />
-	CCF-C. Accepted. </small>
+	CCF-C.  </small>
 
 * On the Way to Microservices: Exploring Problems and Solutions from Online Q&A Community [C]. 🚩 <br />
   <small>Menghan Wu*, <strong>Yang Zhang*</strong>, Jiakun Liu, Shangwen Wang, Zhang Zhang, Xin Xia and Xinjun Mao <br />
