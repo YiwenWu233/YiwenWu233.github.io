@@ -17,6 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 2025-03：I was awarded the NUDT Youth Innovation Award.
+
 * 2025-01: Our work: *Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns* accepted by FSE2025 Technical track.
 
 * 2024-12: Our work: *An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports* accepted by SANER2025 Technical track.
