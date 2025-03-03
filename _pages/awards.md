@@ -3,6 +3,8 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+* 2024 NUDT Youth Innovation Award (校青年创新奖)
+
 * 2023 CIE Science and Technology Progress Award (First Prize) (中国电子学会CIE科技进步一等奖)
 
 * 2023 Young Innovative Talent in Hunan Province (湖南省湖湘青年英才)
