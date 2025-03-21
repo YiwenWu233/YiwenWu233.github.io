@@ -17,6 +17,11 @@ author_profile: true
 	<i>The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2025](https://conf.researchr.org/home/saner-2025)).</i> <br />
 	CCF-B; CORE-A. Accepted. </small>
 
+ * Open source oriented cross-platform survey [J]. <br />
+  <small>Simeng Yao, Xunhui Zhang, <strong>Yang Zhang</strong>, and Tao Wang <br />
+	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 7.4. <br />
+	CCF-B; Accepted. </small>
+
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
