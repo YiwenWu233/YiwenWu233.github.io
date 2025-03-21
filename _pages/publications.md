@@ -19,7 +19,7 @@ author_profile: true
 
  * Open source oriented cross-platform survey [J]. <br />
   <small>Simeng Yao, Xunhui Zhang, <strong>Yang Zhang</strong>, and Tao Wang <br />
-	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 7.4. <br />
+	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 3.8. <br />
 	CCF-B; Accepted. </small>
 
 ## 2024
