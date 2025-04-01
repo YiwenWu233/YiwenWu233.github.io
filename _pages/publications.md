@@ -22,6 +22,11 @@ author_profile: true
 	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 3.8. <br />
 	CCF-B; Accepted. </small>
 
+  * Research on High-Quality Prompt Engineering for Large Language Models in Software Defect Prediction [C]. <br />
+  <small>Jin Zhang, Shunyu Xu, and <strong>Yang Zhang</strong><br />
+	<i>International Joint Conference on Neural Networks ([IJCNN](https://2025.ijcnn.org/)).</i> <br />
+	CCF-C; Accepted. </small>
+
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
   <small><strong>Yang Zhang</strong>, Yiwen Wu, Tingting Chen, Tao Wang, Hui Liu and Huaimin Wang <br />
