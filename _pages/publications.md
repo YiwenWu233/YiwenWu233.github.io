@@ -12,6 +12,11 @@ author_profile: true
 	<i>The 33rd ACM International Conference on the Foundations of Software Engineering, Technical track ([FSE 2025](https://conf.researchr.org/home/fse-2025)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
+ * Are External Contributions Important to Project Productivity in OSS? A Deep Insight based on Issue Entropy [C]. <br />
+ <small>Yang Shen, Tao Wang, Xunhui Zhang, <strong>Yang Zhang</strong>, Cheng Yang, Huaimin Wang <br />
+<i>The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing, Technical track ([CSCW 2025](https://cscw.acm.org/2025/)).</i> <br />
+CCF-A; CORE-A. Accepted. </small>
+
 * An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports [C]. <br />
   <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2025](https://conf.researchr.org/home/saner-2025)).</i> <br />
