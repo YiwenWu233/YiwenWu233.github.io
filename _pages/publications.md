@@ -32,10 +32,10 @@ CCF-A; CORE-A. Accepted. </small>
 	<i>International Joint Conference on Neural Networks ([IJCNN](https://2025.ijcnn.org/)).</i> <br />
 	CCF-C; CORE-A; Accepted. </small>
 
-* Decoding Serverless Security: Exploring Developer  Challenges and Solutions from Stack Overflow [C]. <br />
+<!-- * Decoding Serverless Security: Exploring Developer  Challenges and Solutions from Stack Overflow [C]. <br />
   <small>Changrong Xie, <strong>Yang Zhang (Corresponding author)</strong>, and Xinjun Mao<br />
 	<i>The 49th IEEE International Conference on Computers, Software, and Applications ([COMPSAC](https://ieeecompsac.computer.org/2025/)).</i> <br />
-	CCF-C; CORE-B; Accepted. </small>
+	CCF-C; CORE-B; Accepted. </small>-->
 
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
