@@ -12,10 +12,15 @@ author_profile: true
 	<i>The 33rd ACM International Conference on the Foundations of Software Engineering, Technical track ([FSE 2025](https://conf.researchr.org/home/fse-2025)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
- * Are External Contributions Important to Project Productivity in OSS? A Deep Insight based on Issue Entropy [C]. <br />
- <small>Yang Shen, Tao Wang, Xunhui Zhang, <strong>Yang Zhang</strong>, Cheng Yang, Huaimin Wang <br />
+* Are External Contributions Important to Project Productivity in OSS? A Deep Insight based on Issue Entropy [C]. <br />
+ <small>Yang Shen, Tao Wang, Xunhui Zhang, <strong>Yang Zhang</strong>, Cheng Yang, and Huaimin Wang <br />
 <i>The 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing, Technical track ([CSCW 2025](https://cscw.acm.org/2025/)).</i> <br />
 CCF-A; CORE-A. Accepted. </small>
+
+* What Problems are MLOps Practitioners Talking About? A Study of Discussions in Stack Overflow Forum and GitHub Projects [J]. <br />
+  <small><strong> Yang Zhang </strong>, Yiwen Wu, Tao Wang, Bo Ding, and Huaimin Wang <br />
+	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 3.8. <br />
+	CCF-B. Accepted. </small>
 
 * An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports [C]. <br />
   <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
