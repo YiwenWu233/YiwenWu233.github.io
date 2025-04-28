@@ -17,6 +17,8 @@ My main research interest is empirical software engineering, spanning from minin
 I like movie, music, and photography. 
 
 ## News
+* 2025-04：Our work: *What Problems are MLOps Practitioners Talking About? A Study of Discussions in Stack Overflow Forum and GitHub Projects* accepted by IST Journal.
+  
 * 2025-03：I was awarded the NUDT Youth Innovation Award.
 
 * 2025-01: Our work: *Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns* accepted by FSE2025 Technical track.
