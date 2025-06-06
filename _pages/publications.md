@@ -8,8 +8,8 @@ author_profile: true
 ## 2025
 * Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns [C]. 🚩<br />
   <small>Yiwen Wu*, <strong> Yang Zhang* </strong>, Tao Wang, Bo Ding, Huaimin Wang <br />
-  (\*both are first authors and contributed equally to the work)<br />
-	<i>The 33rd ACM International Conference on the Foundations of Software Engineering, Technical track ([FSE 2025](https://conf.researchr.org/home/fse-2025)).</i> <br />
+  (\*both are first authors and contributed equally to the work) <br />
+   <i>The 33rd ACM International Conference on the Foundations of Software Engineering, Technical track ([FSE 2025](https://conf.researchr.org/home/fse-2025)).</i> <br />
 	CCF-A; CORE-A*. Accepted. </small>
 
 * Are External Contributions Important to Project Productivity in OSS? A Deep Insight based on Issue Entropy [C]. <br />
