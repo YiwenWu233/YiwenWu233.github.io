@@ -22,6 +22,11 @@ CCF-A; CORE-A. Accepted. </small>
 	<i>Information and Software Technology ([IST](https://www.sciencedirect.com/journal/information-and-software-technology)).</i> Impact factor: 3.8. <br />
 	CCF-B. Accepted. </small>
 
+* Understanding the Faults in Serverless Computing Based Applications: An Empirical Study [C]. <br />
+  <small>Changrong Xie, <strong>Yang Zhang (Corresponding author)</strong>, Xinjun Mao, Kang Yang, and Tanghaoran Zhang<br />
+	<i>The 41st IEEE International Conference on Software Maintenance and Evolution, Technical track ([ICSME 2025](https://conf.researchr.org/track/icsme-2025/icsme-2025-papers)).</i> <br />
+	CCF-B; CORE-A. Accepted. </small>
+
 * An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports [C]. <br />
   <small>Jin Zhang, Maoqi Peng, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering, Technical track ([SANER 2025](https://conf.researchr.org/home/saner-2025)).</i> <br />
