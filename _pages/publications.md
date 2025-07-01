@@ -44,8 +44,8 @@ CCF-A; CORE-A. Accepted. </small>
 
 * Decoding Serverless Security: Exploring Developer  Challenges and Solutions from Stack Overflow [C]. <br />
   <small>Changrong Xie, <strong>Yang Zhang (Corresponding author)</strong>, Huiping Zhou, and Xinjun Mao<br />
-	<i>The 37th International Conference on Software Engineering \& Knowledge Engineering ([SEKE](https://ksiresearch.org/seke/seke25.html)).</i> <br />
-	CCF-C; CORE-B; Accepted. </small>-->
+	<i>The 37th International Conference on Software Engineering & Knowledge Engineering ([SEKE](https://ksiresearch.org/seke/seke25.html)).</i> <br />
+	CCF-C; CORE-B; Accepted. </small>
 
 ## 2024
 * How do Developers Talk about GitHub Actions? Evidence from Online Software Development Community [C]. 🚩 <br />
