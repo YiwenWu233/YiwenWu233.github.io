@@ -7,34 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Welcome to Yiwen Wu's Homepage!**
+Welcome to Yiwen Wu's Homepage!
 
-I am currently an Assistant Professor at the **National University of Defense Technology (NUDT)**. I received my **Bachelor’s degree (June 2018)**, **Master’s degree (December 2020)**, and **Ph.D. (June 2025)** from NUDT. During my graduate studies, I was privileged to be advised by **Professor Huaimin Wang**.
+I am currently an Assistant Professor at the National University of Defense Technology (NUDT). I received my Bachelor’s degree (June 2018), Master’s degree (December 2020), and Ph.D. (June 2025) from NUDT. During my graduate studies, I was privileged to be advised by Professor Huaimin Wang.
 
 My primary research interests lie in:
-
-- **Intelligent Software Development**
-- **DevOps (Development and Operations Integration)**
-- **Mining Software Repositories**
-- **Empirical Software Engineering**
+- Intelligent Software Development
+- DevOps (Development and Operations Integration)
+- Mining Software Repositories
+- Empirical Software Engineering
 
 
 ## News
-* 2025-06: Our work: *Understanding the Faults in Serverless Computing Based Applications: An Empirical Study* accepted by ICSME2025 Technical track.
-
 * 2025-04：Our work: *What Problems are MLOps Practitioners Talking About? A Study of Discussions in Stack Overflow Forum and GitHub Projects* accepted by IST Journal.
-  
-* 2025-03：I was awarded the NUDT Youth Innovation Award.
 
 * 2025-01: Our work: *Towards Understanding Docker Build Faults in Practice: Symptoms, Root Causes, and Fix Patterns* accepted by FSE2025 Technical track.
-
-* 2024-12: Our work: *An Empirical Study of Transformer Models on Automatically Templating GitHub Issue Reports* accepted by SANER2025 Technical track.
-
-* 2024-09: Selected as a Junior PC Member at MSR 2025!
-  
-* 2024-04: One paper is accepted by TSE journal.
-
-* 2024-04: Two papers are accepted by COMPSAC2024 Technical track. 
 
 * 2024-01: Our work: *A Transformer-based Model for Assisting Dockerfile Revising* accepted by ICSE2024 Poster track.
 
@@ -42,9 +29,7 @@ My primary research interests lie in:
 
 * 2022-11: I was selected for the 2022 CCF Young Talent Development Program (6 people; I am the only one in the field of Software Engineering).
 
-* 2022-07: Yiwen's work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE2022 Technical track.
+* 2022-07: Our work: *Understanding and Predicting Docker Build Duration: An Empirical Study of Containerized Workflow of OSS Projects* accepted by ASE2022 Technical track.
 
-* 2022-03: Our SANER paper receives the IEEE Computer Society TCSE Distinguished Paper Award.
-
-
+* 2022-05: Awarded the Outstanding Master's Thesis by the NUDT (the only recipient in the software engineering)
 
