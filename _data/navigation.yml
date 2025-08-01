@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/  
+#   - title: "Publications"
+#     url: /publications/  
 
-  - title: "Service"
-    url: /service/
+#   - title: "Service"
+#     url: /service/
 
-  - title: "Experience"
-    url: /experience/ 
+#   - title: "Experience"
+#     url: /experience/ 
 
-  - title: "Awards"
-    url: /awards/
+#   - title: "Awards"
+#     url: /awards/
 
 #  - title: "Travel"
 #    url: /travel/     
