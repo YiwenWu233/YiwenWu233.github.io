@@ -1,7 +1,8 @@
 ---
+layout: archive
 title: "Experience"
 permalink: /experience/
-author_profile: false
+author_profile: true
 ---
 
 ## July 2019 - Now
