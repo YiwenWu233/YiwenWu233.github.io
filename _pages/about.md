@@ -7,14 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**Welcome to Yiwen Wu's Homepage!**
 
-Hi there! I am currently an assistant professor in Key Laboratory of Parallel and Distributed Computing (PDL), National University of Defense Technology (NUDT), China.
+I am currently an Assistant Professor at the **National University of Defense Technology (NUDT)**. I received my **Bachelor’s degree (June 2018)**, **Master’s degree (December 2020)**, and **Ph.D. (June 2025)** from NUDT. During my graduate studies, I was privileged to be advised by **Professor Huaimin Wang**.
 
-I joined the [Trustie & OSSEAN](https://www.trustie.net) Group at August 2013, advised by Prof. [Huaimin Wang](https://dblp.uni-trier.de/pers/hd/w/Wang:Huaimin). I received my Ph.D in Software Engineering from NUDT in 2019. 
+My primary research interests lie in:
 
-My main research interest is empirical software engineering, spanning from mining software repositories and social networks, to Docker and CI/CD workflows.
+- **Intelligent Software Development**
+- **DevOps (Development and Operations Integration)**
+- **Mining Software Repositories**
+- **Empirical Software Engineering**
 
-I like movie, music, and photography. 
 
 ## News
 * 2025-06: Our work: *Understanding the Faults in Serverless Computing Based Applications: An Empirical Study* accepted by ICSME2025 Technical track.
