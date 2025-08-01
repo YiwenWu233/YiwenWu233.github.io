@@ -3,6 +3,7 @@ permalink: /awards/
 title: "Awards"
 author_profile: true
 ---
+<!--<strong>Before graduation:</strong>
 * 2024 Beijing Science and Technology Award (First Prize) (北京市科学技术奖一等奖) 
 
 * 2024 NUDT Youth Innovation Award (校青年创新奖)
@@ -17,7 +18,7 @@ author_profile: true
 
 * 2021 Hunan Province Excellent Doctoral Thesis Award（湖南省优秀博士论文）
 
-<!--<strong>Before graduation:</strong>
+
 * Awards
 <p>2016 OW2 International Programming Contest, Third Prize</p>
 <p>2014 National Graduate Students' Mathematical Contest in Modeling, Third Prize</p>
