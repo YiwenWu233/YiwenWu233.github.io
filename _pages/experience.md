@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 permalink: /experience/
-author_profile: true
+author_profile: false
 ---
 
 ## July 2019 - Now
