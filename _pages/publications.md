@@ -146,11 +146,6 @@ CCF-A; CORE-A. Accepted. </small>
 	<i>Big Data Research ([大数据](http://www.j-bigdataresearch.com.cn)).</i> In Chinese. <br />
 	CCF-C. [pdf](). </small>
 
-<!--* Optimizing Data Locality by Executor Allocation in Reduce Stage for Spark Framework [C]. <br />
-  <small>Zhongming Fu, Mengsi He, Zhuo Tang,  <strong>Yang Zhang</strong> <br />
-	<i>The 22nd International Conference on Parallel and Distributed Computing: Applications and Technologies ([PDCAT 2021](https://cse.sysu.edu.cn/pdcat2021/)).</i><br />
-	[pdf](https://link.springer.com/chapter/10.1007/978-3-030-96772-7_32).</small>-->
-
 ## 2020
 * Using Configuration Semantic Features and Machine Learning Algorithms to Predict Build Result in Cloud-Based Container Environment [C]. <br />
   <small>Yiwen Wu*, <strong>Yang Zhang*</strong>, Bo Ding, Tao Wang and Huaimin Wang <br />
@@ -207,11 +202,6 @@ CCF-A; CORE-A. Accepted. </small>
         <i>[SCIENCE CHINA Information Sciences (中国科学:信息科学)](http://engine.scichina.com/publisher/scp/journal/SSI/50/3/10.1360/SSI-2019-0187?slug=fulltext).</i> In Chinese. <br /> 
 	CCF-A. [pdf](https://www.researchgate.net/publication/339867502_Crowd-intelligence-based_software_development_method_and_practices)       </small>
 
-<!--* EduCoder：Exploration and Application of Massive Open Online Practical Teaching [J]. <br />
-  <small>(EduCoder：大规模开放在线实践教学探索与应用——疫情防控下的在线实践教学新途径)<br />
-        Gang Yin, Tao Wang, Yue Yu, Jinquan Huang, <strong>Yang Zhang</strong>, Bing Xie, and Huaimin Wang<br />
-	<i>[Software Guide (软件导刊)](http://www.rjdk.org/CN/volumn/home.shtml).</i> In Chinese. <br />
-	[pdf](http://www.rjdk.org/CN/abstract/abstract9107.shtml). </small>-->
 
 ## 2019
 * Exploring the Relationship Between Developer Activities and Profile Images on GitHub [C].<br />
@@ -281,16 +271,6 @@ CCF-A; CORE-A. Accepted. </small>
 	<small>Dongyang Hu, Ming Chen, Tao Wang, Junsheng Chang, Gang Yin, Yue Yu, and <strong>Yang Zhang (Corresponding author)</strong> <br />
 	<i>The 25th Asia-Pacific Software Engineering Conference ([APSEC 2018](http://www.apsec2018.org/))</i>, Nara, Japan. Poster. <br />
 	CCF-C; CORE-B. [pdf](https://www.researchgate.net/publication/333341249_Recommending_Similar_Bug_Reports_A_Novel_Approach_Using_Document_Embedding_Model)</small>
-
-<!--* Using Document Embedding Techniques for Similar Bug Reports Recommendation [C].<br />
-	<small>Ming Chen, Dongyang Hu, Tao Wang, Jun Long, Gang Yin, Yue Yu, and <strong>Yang Zhang</strong> <br />
-	<i>The 9th IEEE International Conference on Software Engineering and Service Science ([ICSESS 2018](http://www.icsess.org/index.html))</i>, Beijing, China.<br />
-	[pdf](https://www.researchgate.net/publication/330439151_Using_Document_Embedding_Techniques_for_Similar_Bug_Reports_Recommendation)</small>-->
-
-<!--* Bugs and features, do developers treat them differently? [C]<br />
-	<small>Dongyang Hu, Tao Wang, Junsheng Chang, <strong>Yang Zhang</strong>, Gang Yin<br />
-	<i>The International Conference on Artificial Intelligence and Big Data ([ICAIBD 2018](https://ieeexplore.ieee.org/abstract/document/8396204/))</i>. Short paper. <br />
-	[pdf](https://ieeexplore.ieee.org/abstract/document/8396204/)</small>-->
 	
 * A Clustering-based Approach for Mining Dockerfile Evolutionary Trajectories [J]. <br />
 	<small><strong>Yang Zhang</strong>, Huaimin Wang, Vladimir Filkov<br />
@@ -301,7 +281,7 @@ CCF-A; CORE-A. Accepted. </small>
 	<small>Zhixing Li, Gang Yin, Tao Wang, <strong>Yang Zhang</strong>, Yue Yu, Huaimin Wang<br />
 	<i>[Frontiers of Computer Science](http://journal.hep.com.cn/fcs/EN/2095-2228/current.shtml)</i>. Impact factor: 1.129.  <br />
 	CCF-C. [pdf](/files/FCS_2018_li.pdf)</small>
-
+ 
 ## 2017
 * Internal quality assurance for external contributions in GitHub: An empirical investigation [J]. <br /> 
 	<small>Yao Lu, Xinjun Mao, Zude Li, <strong>Yang Zhang</strong>, Tao Wang, Gang Yin<br />
@@ -324,11 +304,6 @@ CCF-A; CORE-A. Accepted. </small>
 	<small>Zhixing Li, Tao Wang, <strong>Yang Zhang</strong>, Yun Zhan, Gang Yin<br />
 	<i>The 8th Asia-Pacific Symposium on Internetware ([Internetware 2016](https://dblp.org/db/conf/internetware/internetware2016))</i>, Bei Jing, China. Full paper. <br />
 	CCF-C. [pdf](/files/Internetware_2016_li.pdf)</small>
-
-<!--* Octopus: A Data Acquisition System for Open Source Communities [C].<br />
-	<small>Zhixing Li, Gang Yin, Tao Wang, Yiang Gan, Yun Zhan, <strong>Yang Zhang</strong><br />
-	<i>The International Conference on Computer Science and Artificial Intelligence ([CSAI 2016](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114))</i>. Full paper. <br />
-	[pdf](https://www.worldscientific.com/doi/pdf/10.1142/9789813220294_0114)</small>-->
 
 ## 2015
 
