@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Yang Zhang"
+name                     : &name "Yiwen Wu"
 description              : &description "personal description"
-url                      : https://yangzhangs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://YiwenWu233.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yangzhangs/yangzhangs.github.io"
+repository               : "YiwenWu233/YiwenWu233.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yang Zhang"
+  name             : "Yiwen Wu"
   avatar           : "profile1.jpg"
-  bio              : "Young, forever"
-  location         : "Changsha, Hunan, China"
+  bio              : 
+  location         : "Changsha, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=MbAnTzIAAAAJ"
-  email            : "yangzhang15@nudt.edu.cn"
+  googlescholar    : 
+  email            : "wuyiwen14@nudt.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yangzhangs"
+  github           : "YiwenWu233"
   google_plus      :
   keybase          :
   instagram        :
@@ -101,7 +101,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
